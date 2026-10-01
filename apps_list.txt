@@ -1,1 +1,3 @@
 Hệ điều hành Android|android
+
+Chế độ ngủ cơ bản|com.android.dreams.basic
