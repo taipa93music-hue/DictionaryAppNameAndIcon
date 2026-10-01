@@ -1,3 +1,160 @@
 Hệ điều hành Android|android
 
 Chế độ ngủ cơ bản|com.android.dreams.basic
+Automation Test|com.sec.android.app.DataCreate
+com.android.cts.priv.ctsshim|com.android.cts.priv.ctsshim
+com.samsung.android.smartswitchassistant|com.samsung.android.smartswitchassistant
+com.sec.android.app.chromecustomizations|com.sec.android.app.chromecustomizations
+Android Services Library|com.google.android.ext.services
+Dialer Storage|com.android.providers.telephony
+DRParser Mode|com.sec.android.app.parser
+Lịch|com.samsung.android.calendar
+Nơi lưu trữ lịch|com.android.providers.calendar
+Samsung account|com.osp.app.signin
+TetheringAutomation|com.sec.automation
+Zalo|com.zing.zalo
+Telegram|org.telegram.messenger
+Không gian nhớ của Media|com.android.providers.media
+Google One Time Init|com.google.android.onetimeinitializer
+Android Shared Library|com.google.android.ext.shared
+com.android.wallpapercropper|com.android.wallpapercropper
+Samsung Max|com.samsung.max.go
+Maps Go|com.google.android.apps.mapslite
+AppHelper|com.vendor.apphelper
+Camera Test|com.sec.factory.camera
+USBSettings|com.sec.usbsettings
+Tệp|com.android.documentsui
+android.auto_generated_rro__|android.auto_generated_rro__
+Bộ nhớ ngoài|com.android.externalstorage
+DeviceTest|com.sec.factory
+Trình xem HTML|com.android.htmlviewer
+Companion Device Manager|com.android.companiondevicemanager
+Điều hướng cho Maps Go|com.google.android.apps.navlite
+MmsService|com.android.mms.service
+Quản lý tải về|com.android.providers.downloads
+Tin nhắn cấu hình|com.wsomacp
+Ứng dụng MTP|com.samsung.android.MtpApplication
+DeviceKeystring|com.sec.android.app.factorykeystring
+Galaxy Apps|com.sec.android.app.samsungapps
+EmergencyManagerService|com.sec.android.emergencymode.service
+ConfigUpdater|com.google.android.configupdater
+WlanTest|com.sec.android.app.wlantest
+EpdgTestApp|com.sec.epdgtestapp
+Trình trợ giúp truy cập gói|com.android.defcontainer
+com.sec.ims|com.sec.ims
+SecVideoEngineService|com.sec.sve
+Nội dung tải xuống|com.android.providers.downloads.ui
+Cửa hàng Google Play|com.android.vending
+PacProcessor|com.android.pacprocessor
+Gmail|com.google.android.gm.lite
+BadgeProvider|com.sec.android.provider.badge
+Trình cài đặt Chứng chỉ|com.android.certinstaller
+com.android.carrierconfig|com.android.carrierconfig
+Danh bạ|com.android.contacts
+Android Easter Egg|com.android.egg
+Máy chủ MTP|com.android.mtp
+Ứng dụng SIM|com.android.stk
+Tin nhắn|com.samsung.android.messaging
+com.android.backupconfirm|com.android.backupconfirm
+Hướng dẫn cài đặt Samsung|com.sec.android.app.SecSetupWizard
+Intent Filter Verification Service|com.android.statementservice
+Samsung Internet|com.sec.android.app.sbrowser.lite
+HwModuleTest|com.sec.android.app.hwmoduletest
+com.sec.bcservice|com.sec.bcservice
+SilentLogging|com.sec.modem.settings
+Dark|com.android.systemui.theme.dark
+Google Go|com.google.android.apps.searchlite
+SysScope|com.sec.android.app.sysscope
+WallpaperPicker|com.sec.android.app.wallpaperchooser
+Context Service|com.samsung.android.providers.context
+Service mode|com.sec.android.app.servicemodeapp
+Trình cài đặt ứng dụng|com.sec.android.preloadinstaller
+Thiết lập Android|com.google.android.setupwizard
+Bộ sưu tập|com.sec.android.gallery3d
+Lưu trữ bộ nhớ|com.android.providers.settings
+IMS Service|com.sec.imsservice
+com.android.sharedstoragebackup|com.android.sharedstoragebackup
+Facebook Services|com.facebook.services
+Google Play Âm nhạc|com.google.android.music
+Print Spooler|com.android.printspooler
+Chế độ ngủ cơ bản|com.android.dreams.basic
+Điện thoại|com.android.incallui
+Thiết bị đầu vào|com.android.inputdevices
+Payment Services|com.samsung.android.kgclient
+Dịch vụ in mặc định|com.android.bips
+Ứng dụng SIM|com.android.stk2
+Files by Google|com.google.android.apps.nbu.files
+Time Zone Updater|com.samsung.android.timezone.autoupdate_O
+IMS Settings|com.samsung.advp.imssettings
+Bàn phím Samsung|com.sec.android.inputmethod
+Đồng hồ|com.sec.android.app.clockpackage
+Service mode RIL|com.sec.android.RilServiceModeApp
+Android System WebView|com.google.android.webview
+Quản lý SIM|com.sec.android.app.simsettingmgr
+Điện thoại|com.android.server.telecom
+Đồng bộ hóa danh sách liên hệ của Google|com.google.android.syncadapters.contacts
+ImsLogger|com.sec.imslogger
+Chuỗi chính|com.android.keychain
+Chrome|com.android.chrome
+Trình cài đặt gói|com.google.android.packageinstaller
+Dịch vụ Google Play|com.google.android.gms
+Khung Dịch vụ của Google|com.google.android.gsf
+Nhận dạng và tổng hợp giọng nói của Google|com.google.android.tts
+Call Log Backup/Restore|com.android.calllogbackup
+Google Partner Setup|com.google.android.partnersetup
+Samsung Push Service|com.sec.spp.push
+CarrierDefaultApp|com.android.carrierdefaultapp
+ProxyHandler|com.android.proxyhandler
+Trang chính Samsung Experience|com.sec.android.app.launcher
+UC Browser|com.UCMobile.intl
+Tác nhân p.hồi Market|com.google.android.feedback
+Print Service Recommendation Service|com.google.android.printservice.recommendation
+AdaptiveBrightnessGo|com.samsung.adaptivebrightnessgo
+Đồng bộ hóa lịch của Google|com.google.android.syncadapters.calendar
+Thiết lập hồ sơ công việc|com.android.managedprovisioning
+Thông tin an toàn|com.samsung.safetyinformation
+ringtonebackup|com.sec.android.app.ringtoneBR
+Google Speech Services|com.google.android.apps.speechservices
+com.android.providers.partnerbookmarks|com.android.providers.partnerbookmarks
+Lite|com.facebook.lite
+Messenger|com.facebook.orca
+Facebook App Installer|com.facebook.system
+Máy tính|com.sec.android.app.popupcalculator
+Cập nhật phần mềm|com.sec.android.soagent
+Cuộc gọi qua Wi-Fi|com.sec.unifiedwfc
+com.sec.phone|com.sec.phone
+Google Di chuyển sao lưu|com.google.android.backuptransport
+Trình quản lý bộ nhớ|com.android.storagemanager
+Bookmark Provider|com.android.bookmarkprovider
+Cài đặt|com.android.settings
+BluetoothTest|com.sec.android.app.bluetoothtest
+Launcher|com.sec.android.emergencylauncher
+com.android.cts.ctsshim|com.android.cts.ctsshim
+SVC Agent|com.samsung.android.svcagent
+Trợ lý Google|com.google.android.apps.assistant
+VpnDialogs|com.android.vpndialogs
+Bộ nhớ|com.samsung.memorysaver
+Điện thoại|com.android.phone
+Shell|com.android.shell
+com.android.wallpaperbackup|com.android.wallpaperbackup
+Lưu số điện thoại bị chặn|com.android.providers.blockednumber
+Từ điển người dùng|com.android.providers.userdictionary
+Cập nhật phần mềm|com.wssyncmldm
+Vị trí được hợp nhất|com.android.location.fused
+com.sec.epdg|com.sec.epdg
+Giao diện người dùng hệ thống|com.android.systemui
+YouTube Go|com.google.android.apps.youtube.mango
+Bluetooth MIDI Service|com.android.bluetoothmidiservice
+Smart Locale Centre|com.sec.rrocentre
+Facebook App Manager|com.facebook.appmanager
+Radio|com.sec.android.app.fm
+EmergencyProvider|com.sec.android.provider.emergencymode
+Máy ảnh|com.sec.android.app.camera
+Bluetooth|com.android.bluetooth
+Bộ nhớ các danh bạ|com.android.providers.contacts
+Sách hướng dẫn sử dụng|com.sec.android.widgetapp.webmanual
+CSC|com.samsung.sec.android.application.csc
+CaptivePortalLogin|com.android.captiveportallogin
+Gboard|com.google.android.inputmethod.latin
+Quản lý Thông minh|com.samsung.android.sm.go
+Trình phát video|com.samsung.android.video
