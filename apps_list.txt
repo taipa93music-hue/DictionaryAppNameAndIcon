@@ -453,3 +453,388 @@ android.unisoc.color_display.overlay|android.unisoc.color_display.overlay
 Photos & videos|com.google.android.photopicker
 Gboard|com.google.android.inputmethod.latin
 Android Switch|com.google.android.apps.restore
+Automation Test|com.sec.android.app.DataCreate
+com.android.cts.priv.ctsshim|com.android.cts.priv.ctsshim
+com.samsung.android.smartswitchassistant|com.samsung.android.smartswitchassistant
+com.sec.android.app.chromecustomizations|com.sec.android.app.chromecustomizations
+Android Services Library|com.google.android.ext.services
+Dialer Storage|com.android.providers.telephony
+DRParser Mode|com.sec.android.app.parser
+Lịch|com.samsung.android.calendar
+Nơi lưu trữ lịch|com.android.providers.calendar
+Samsung account|com.osp.app.signin
+TetheringAutomation|com.sec.automation
+Zalo|com.zing.zalo
+Telegram|org.telegram.messenger
+Không gian nhớ của Media|com.android.providers.media
+Google One Time Init|com.google.android.onetimeinitializer
+Android Shared Library|com.google.android.ext.shared
+com.android.wallpapercropper|com.android.wallpapercropper
+Samsung Max|com.samsung.max.go
+Maps Go|com.google.android.apps.mapslite
+AppHelper|com.vendor.apphelper
+Camera Test|com.sec.factory.camera
+USBSettings|com.sec.usbsettings
+Tệp|com.android.documentsui
+android.auto_generated_rro__|android.auto_generated_rro__
+Bộ nhớ ngoài|com.android.externalstorage
+DeviceTest|com.sec.factory
+Trình xem HTML|com.android.htmlviewer
+Companion Device Manager|com.android.companiondevicemanager
+Điều hướng cho Maps Go|com.google.android.apps.navlite
+MmsService|com.android.mms.service
+Quản lý tải về|com.android.providers.downloads
+Tin nhắn cấu hình|com.wsomacp
+Ứng dụng MTP|com.samsung.android.MtpApplication
+DeviceKeystring|com.sec.android.app.factorykeystring
+Galaxy Apps|com.sec.android.app.samsungapps
+EmergencyManagerService|com.sec.android.emergencymode.service
+ConfigUpdater|com.google.android.configupdater
+WlanTest|com.sec.android.app.wlantest
+EpdgTestApp|com.sec.epdgtestapp
+Trình trợ giúp truy cập gói|com.android.defcontainer
+com.sec.ims|com.sec.ims
+SecVideoEngineService|com.sec.sve
+Nội dung tải xuống|com.android.providers.downloads.ui
+Cửa hàng Google Play|com.android.vending
+PacProcessor|com.android.pacprocessor
+Gmail|com.google.android.gm.lite
+BadgeProvider|com.sec.android.provider.badge
+Trình cài đặt Chứng chỉ|com.android.certinstaller
+com.android.carrierconfig|com.android.carrierconfig
+Hệ thống Android|android
+Danh bạ|com.android.contacts
+Android Easter Egg|com.android.egg
+Máy chủ MTP|com.android.mtp
+Ứng dụng SIM|com.android.stk
+Tin nhắn|com.samsung.android.messaging
+com.android.backupconfirm|com.android.backupconfirm
+Hướng dẫn cài đặt Samsung|com.sec.android.app.SecSetupWizard
+Intent Filter Verification Service|com.android.statementservice
+Samsung Internet|com.sec.android.app.sbrowser.lite
+HwModuleTest|com.sec.android.app.hwmoduletest
+com.sec.bcservice|com.sec.bcservice
+SilentLogging|com.sec.modem.settings
+Dark|com.android.systemui.theme.dark
+Google Go|com.google.android.apps.searchlite
+SysScope|com.sec.android.app.sysscope
+WallpaperPicker|com.sec.android.app.wallpaperchooser
+Context Service|com.samsung.android.providers.context
+Service mode|com.sec.android.app.servicemodeapp
+Trình cài đặt ứng dụng|com.sec.android.preloadinstaller
+Thiết lập Android|com.google.android.setupwizard
+Bộ sưu tập|com.sec.android.gallery3d
+Lưu trữ bộ nhớ|com.android.providers.settings
+IMS Service|com.sec.imsservice
+com.android.sharedstoragebackup|com.android.sharedstoragebackup
+Facebook Services|com.facebook.services
+Google Play Âm nhạc|com.google.android.music
+Print Spooler|com.android.printspooler
+Chế độ ngủ cơ bản|com.android.dreams.basic
+Điện thoại|com.android.incallui
+Thiết bị đầu vào|com.android.inputdevices
+Payment Services|com.samsung.android.kgclient
+Dịch vụ in mặc định|com.android.bips
+Ứng dụng SIM|com.android.stk2
+Files by Google|com.google.android.apps.nbu.files
+Time Zone Updater|com.samsung.android.timezone.autoupdate_O
+IMS Settings|com.samsung.advp.imssettings
+Bàn phím Samsung|com.sec.android.inputmethod
+Đồng hồ|com.sec.android.app.clockpackage
+Service mode RIL|com.sec.android.RilServiceModeApp
+Android System WebView|com.google.android.webview
+Quản lý SIM|com.sec.android.app.simsettingmgr
+Điện thoại|com.android.server.telecom
+Đồng bộ hóa danh sách liên hệ của Google|com.google.android.syncadapters.contacts
+ImsLogger|com.sec.imslogger
+Chuỗi chính|com.android.keychain
+Chrome|com.android.chrome
+Trình cài đặt gói|com.google.android.packageinstaller
+Dịch vụ Google Play|com.google.android.gms
+Khung Dịch vụ của Google|com.google.android.gsf
+Nhận dạng và tổng hợp giọng nói của Google|com.google.android.tts
+Call Log Backup/Restore|com.android.calllogbackup
+Google Partner Setup|com.google.android.partnersetup
+Samsung Push Service|com.sec.spp.push
+CarrierDefaultApp|com.android.carrierdefaultapp
+ProxyHandler|com.android.proxyhandler
+Trang chính Samsung Experience|com.sec.android.app.launcher
+UC Browser|com.UCMobile.intl
+Tác nhân p.hồi Market|com.google.android.feedback
+Print Service Recommendation Service|com.google.android.printservice.recommendation
+AdaptiveBrightnessGo|com.samsung.adaptivebrightnessgo
+Đồng bộ hóa lịch của Google|com.google.android.syncadapters.calendar
+Thiết lập hồ sơ công việc|com.android.managedprovisioning
+Thông tin an toàn|com.samsung.safetyinformation
+ringtonebackup|com.sec.android.app.ringtoneBR
+Google Speech Services|com.google.android.apps.speechservices
+com.android.providers.partnerbookmarks|com.android.providers.partnerbookmarks
+Lite|com.facebook.lite
+Messenger|com.facebook.orca
+Facebook App Installer|com.facebook.system
+Máy tính|com.sec.android.app.popupcalculator
+Cập nhật phần mềm|com.sec.android.soagent
+Cuộc gọi qua Wi-Fi|com.sec.unifiedwfc
+com.sec.phone|com.sec.phone
+Google Di chuyển sao lưu|com.google.android.backuptransport
+Trình quản lý bộ nhớ|com.android.storagemanager
+Bookmark Provider|com.android.bookmarkprovider
+Cài đặt|com.android.settings
+BluetoothTest|com.sec.android.app.bluetoothtest
+Launcher|com.sec.android.emergencylauncher
+com.android.cts.ctsshim|com.android.cts.ctsshim
+SVC Agent|com.samsung.android.svcagent
+Trợ lý Google|com.google.android.apps.assistant
+VpnDialogs|com.android.vpndialogs
+Bộ nhớ|com.samsung.memorysaver
+Điện thoại|com.android.phone
+Shell|com.android.shell
+com.android.wallpaperbackup|com.android.wallpaperbackup
+Lưu số điện thoại bị chặn|com.android.providers.blockednumber
+Từ điển người dùng|com.android.providers.userdictionary
+Cập nhật phần mềm|com.wssyncmldm
+Vị trí được hợp nhất|com.android.location.fused
+com.sec.epdg|com.sec.epdg
+Giao diện người dùng hệ thống|com.android.systemui
+YouTube Go|com.google.android.apps.youtube.mango
+Bluetooth MIDI Service|com.android.bluetoothmidiservice
+Smart Locale Centre|com.sec.rrocentre
+Facebook App Manager|com.facebook.appmanager
+Radio|com.sec.android.app.fm
+EmergencyProvider|com.sec.android.provider.emergencymode
+Máy ảnh|com.sec.android.app.camera
+Bluetooth|com.android.bluetooth
+Bộ nhớ các danh bạ|com.android.providers.contacts
+Sách hướng dẫn sử dụng|com.sec.android.widgetapp.webmanual
+CSC|com.samsung.sec.android.application.csc
+CaptivePortalLogin|com.android.captiveportallogin
+Gboard|com.google.android.inputmethod.latin
+Quản lý Thông minh|com.samsung.android.sm.go
+Trình phát video|com.samsung.android.video
+Tethering|com.google.android.networkstack.tethering
+Google One|com.google.android.apps.subscriptions.red
+YouTube|com.google.android.youtube
+android.unisoc.core.overlay|android.unisoc.core.overlay
+Corner cutout|com.android.internal.display.cutout.emulation.corner
+Double cutout|com.android.internal.display.cutout.emulation.double
+Dynamic System Updates|com.android.dynsystem
+EngineerMode|com.sprd.engineermode
+Google|com.google.android.googlequicksearchbox
+Lock Screen Magazine|com.heytap.pictorial
+Cell Broadcast Service|com.google.android.cellbroadcastservice
+Assistant|com.google.android.apps.googleassistant
+com.android.unisoc.phone.overlay|com.android.unisoc.phone.overlay
+TetheringConfigOverlayGsi|com.android.networkstack.tethering.overlay
+com.android.virtualmachine.res|com.android.virtualmachine.res
+Game Space|com.oplus.gamespace
+com.google.android.federatedcompute|com.google.android.federatedcompute
+com.android.wifi.uniresources.marlin3|com.android.wifi.uniresources.marlin3
+SilentReboot|com.oplus.silentreboot
+com.google.android.server.deviceconfig.resources|com.google.android.server.deviceconfig.resources
+com.android.cellbroadcast.overlay|com.android.cellbroadcast.overlay
+Weather Services|com.coloros.weather.service
+OtaOmaHandler|com.sprd.omacp
+com.android.overlay.wallpaperconfig|com.android.overlay.wallpaperconfig
+android.unisoc.phone_core.overlay|android.unisoc.phone_core.overlay
+com.google.android.health.connect.backuprestore|com.google.android.health.connect.backuprestore
+Messages|com.google.android.apps.messaging
+TetheringConfigOverlay|com.google.android.networkstack.tethering.overlay
+com.android.partnerbrowsercustomizations.example|com.android.partnerbrowsercustomizations.example
+com.android.unisoc.phone_hac.overlay|com.android.unisoc.phone_hac.overlay
+System Upgrade Services|com.oplus.sau
+App Market|com.heytap.market
+Media picker|com.google.android.providers.media.module
+com.google.android.overlay.modules.permissioncontroller|com.google.android.overlay.modules.permissioncontroller
+Sound Recorder|com.android.soundrecorder
+Avatar Picker|com.android.avatarpicker
+Personal Safety|com.google.android.apps.safetyhub
+OsuLogin|com.google.android.hotspot2.osulogin
+Sim App Dialog|com.android.simappdialog
+Ad Privacy|com.google.android.adservices.api
+ValidationTools|com.sprd.validationtools
+Punch Hole cutout|com.android.internal.display.cutout.emulation.hole
+Tall cutout|com.android.internal.display.cutout.emulation.tall
+CommercialMidGround|com.oplus.commercial
+NetworkStackOverlayGsi|com.android.networkstack.overlay
+Android Accessibility Suite|com.google.android.marvin.talkback
+3 Button Navigation Bar|com.android.internal.systemui.navbar.threebutton
+Startup Wizard|com.coloros.bootreg
+default browser|com.android.overlay.default.browser
+Camera|com.android.camera2
+Uni Wi-Fi|com.unisoc.android.wifi
+com.google.android.overlay.gmsconfig.searchselector|com.google.android.overlay.gmsconfig.searchselector
+Carrier Location|com.spreadtrum.proxy.nfwlocation
+MMI|com.yha.factory
+com.google.android.sdksandbox|com.google.android.sdksandbox
+android.overlay.navbar|android.overlay.navbar
+Nfc Service|com.android.nfc
+com.android.ons|com.android.ons
+Quickstep|com.android.launcher3
+com.android.phone.injection|com.android.phone.injection
+Clock|com.google.android.deskclock
+E-warranty card|com.coloros.activation
+Android System Intelligence|com.google.android.as
+Gmail|com.google.android.gm
+Device configuration|android.autoinstalls.config.oppo
+CompOS|com.android.compos.payload
+Meet|com.google.android.apps.tachyon
+com.google.android.overlay.gmsconfig.common|com.google.android.overlay.gmsconfig.common
+AudioEffectCenter|com.oplus.audio.effectcenter
+Settings Suggestions|com.android.settings.intelligence
+android.overlay.multiuser|android.overlay.multiuser
+com.unisoc.power_qogirl6.overlay|com.unisoc.power_qogirl6.overlay
+CameraCalibration|com.sprd.cameracalibration
+com.android.systemui.accessibility.accessibilitymenu|com.android.systemui.accessibility.accessibilitymenu
+Permission controller|com.google.android.permissioncontroller
+EngineerSecret|com.yha.engineersecret
+android.unisoc.power_qogirl6.overlay|android.unisoc.power_qogirl6.overlay
+ifaa_manager_service|org.ifaa.aidl.manager
+com.android.providers.settings.auto_generated_rro_product__|com.android.providers.settings.auto_generated_rro_product__
+com.google.android.overlay.modules.ext.services|com.google.android.overlay.modules.ext.services
+Private Compute Services|com.google.android.as.oss
+SecureElementApplication|com.android.se
+Digital Wellbeing|com.google.android.apps.wellbeing
+com.google.android.overlay.gmsconfig.photos|com.google.android.overlay.gmsconfig.photos
+Phone|com.google.android.dialer
+Shelper|com.daemon.shelper
+Captive Portal Login|com.google.android.captiveportallogin
+com.android.unisoc.telephony.server.RadioInteractorApp|com.android.unisoc.telephony.server
+com.google.android.overlay.gmsconfig.comms|com.google.android.overlay.gmsconfig.comms
+com.google.android.overlay.gmsconfig.geotz|com.google.android.overlay.gmsconfig.geotz
+com.google.android.appsearch.apk|com.google.android.appsearch.apk
+Cross-Device Services|com.google.ambient.streaming
+MusicFX|com.android.musicfx
+Drive|com.google.android.apps.docs
+Maps|com.google.android.apps.maps
+Main components|com.google.android.modulemetadata
+Themes|com.android.customization.themes
+com.google.android.overlay.gmsconfig.searchlauncherqs|com.google.android.overlay.gmsconfig.searchlauncherqs
+com.android.cellbroadcastreceiver|com.android.cellbroadcastreceiver
+Weather|com.coloros.weather2
+com.google.android.overlay.modules.documentsui|com.google.android.overlay.modules.documentsui
+Network manager|com.google.android.networkstack
+com.android.wifi.resources.uni_marlin3.mainline|com.android.wifi.resources.uni_marlin3.mainline
+RemoteProvisioner|com.google.android.rkpdapp
+Contacts|com.google.android.contacts
+com.android.server.telecom.auto_generated_rro_product__|com.android.server.telecom.auto_generated_rro_product__
+Calculator|com.google.android.calculator
+com.google.android.overlay.modules.healthfitness.forframework|com.google.android.overlay.modules.healthfitness.forframework
+UASetting|com.sprd.uasetting
+Compass|com.coloros.compass2
+Game Center|com.nearme.gamecenter
+Basic Data Services|com.nearme.statistics.rom
+com.spreadtrum.ims.ImsApp|com.spreadtrum.ims
+Tags|com.google.android.tag
+com.unisoc.connectivity.resources.overlay.go|com.unisoc.connectivity.resources.overlay.go
+Google Sample Home Screen|com.google.android.gmsintegration
+Google Wallet|com.google.android.apps.walletnfcrel
+PowerSaveModeLauncher|com.sprd.powersavemodelauncher
+CameraExtensionsProxy|com.android.cameraextensions
+com.android.localtransport|com.android.localtransport
+android.unisoc.core.pinner_service.overlay|android.unisoc.core.pinner_service.overlay
+Google TV|com.google.android.videos
+com.google.android.overlay.gmsconfig.asi|com.google.android.overlay.gmsconfig.asi
+com.google.android.overlay.gmsconfig.gsa|com.google.android.overlay.gmsconfig.gsa
+default browser|com.android.overlay.default.browser.cota
+com.sprd.linkturbo.LinkTurboManagerApp|com.sprd.linkturbo
+Credential Manager|com.android.credentialmanager
+Assistant|com.coloros.lockassistant
+Noto Serif / Source Sans Pro|com.android.theme.font.notoserifsource
+Webcam Service|com.android.DeviceAsWebcam
+Google Safety Center Resources|com.google.android.safetycenter.resources
+Waterfall cutout|com.android.internal.display.cutout.emulation.waterfall
+IntentResolver|com.android.intentresolver
+Transparent navigation bar|com.android.internal.systemui.navbar.transparent
+ContactsKeys Storage|com.android.providers.contactkeys
+System Connectivity Resources|com.google.android.connectivity.resources
+com.google.android.overlay.modules.permissioncontroller.forframework|com.google.android.overlay.modules.permissioncontroller.forframework
+com.android.providers.settings.overlay|com.android.providers.settings.overlay
+Photos|com.google.android.apps.photos
+YLog|com.sprd.logmanager
+Calendar|com.google.android.calendar
+Software update|com.oppo.ota
+Sounds|com.android.soundpicker
+soter_server|com.tencent.soter.soterserver
+Files|com.google.android.documentsui
+Photo Screensavers|com.android.dreams.phototable
+Switch Access|com.google.android.accessibility.switchaccess
+Support components|com.google.mainline.telemetry
+Facebook|com.facebook.katana
+StdID|com.oplus.stdid
+android.overlay.bluetoothres|android.overlay.bluetoothres
+com.android.smspush|com.android.smspush
+Notes Role enabled|com.android.role.notes.enabled
+Private Safe|com.oplus.encryption
+Main components|com.google.mainline.adservices
+Phone Manager|com.coloros.phonemanager
+com.android.imsserviceentitlement|com.android.imsserviceentitlement
+android.unisoc.core.wifi_display.overlay|android.unisoc.core.wifi_display.overlay
+EngineerNetwork|com.oppo.engineermode.network
+Health Connect|com.google.android.healthconnect.controller
+Wallpaper Carousel|com.taboola.scoop
+System parental controls|com.google.android.gms.supervision
+Photos Types Storage|com.sprd.providers.photos
+Music|com.realme.as.music
+SGPS|com.spreadtrum.sgps
+System Messages|com.heytap.mcs
+Fitbit|com.fitbit.FitbitMobile
+Internet|com.heytap.browser
+NetworkStackOverlay|com.google.android.networkstack.overlay
+EngineerMode|com.oppo.engineermode
+tuiAuxi_server|com.unisoc.tui
+com.google.android.overlay.modules.captiveportallogin.forframework|com.google.android.overlay.modules.captiveportallogin.forframework
+Android Auto|com.google.android.projection.gearhead
+Device Health Services|com.google.android.apps.turbo
+Diagnostic Tool|com.oplus.postmanservice
+unisoc system|com.unisoc
+android.overlay.framework|android.overlay.framework
+System UWB Resources|com.google.android.uwb.resources
+Home|com.google.android.apps.chromecast.app
+System Wi-Fi Resources|com.google.android.wifi.resources
+Videos (System)|com.coloros.video
+com.google.android.overlay.modules.modulemetadata.forframework|com.google.android.overlay.modules.modulemetadata.forframework
+com.google.android.wifi.dialog|com.google.android.wifi.dialog
+android.unisoc.display_vrr.overlay|android.unisoc.display_vrr.overlay
+My Files|com.coloros.filemanager
+Wallpaper & style|com.android.wallpaper
+com.android.microdroid.empty_payload|com.android.microdroid.empty_payload
+Gestures & motions|com.oplus.gesture
+Assistant|com.unisoc.phone
+Keep Notes|com.google.android.keep
+OplusLFEHer|com.oplus.lfeh
+com.android.settings.auto_generated_rro_product__|com.android.settings.auto_generated_rro_product__
+com.android.email.partnerprovider|com.android.email.partnerprovider
+android.overlay.systemui|android.overlay.systemui
+Riding mode|com.realme.smartdrive
+Google Wi-Fi Provisioner|com.google.android.apps.carrier.carrierwifi
+com.android.emergency|com.android.emergency
+com.unisoc.connectivity.resources.overlay.gsi|com.unisoc.connectivity.resources.overlay.gsi
+Global Search|com.oppo.quicksearchbox
+Google Location History|com.google.android.gms.location.history
+Gestural Navigation Bar|com.android.internal.systemui.navbar.gestural
+com.google.android.overlay.gmsconfig.personalsafety|com.google.android.overlay.gmsconfig.personalsafety
+com.android.ondevicepersonalization.services.OnDevicePersonalizationApplication|com.google.android.ondevicepersonalization.services
+YouTube Music|com.google.android.apps.youtube.music
+Battery|com.oplus.batterywarning
+EngineerCamera|com.oppo.engineermode.camera
+Clone Phone|com.realme.backuprestore
+Help & feedback|com.coloros.operationManual
+Update Service|com.nearme.romupdate
+Security Center|com.oplus.safecenter
+Kids mode|com.coloros.childrenspace
+System Tracing|com.android.traceur
+Wireless emergency alerts|com.google.android.cellbroadcastreceiver
+RfToolkit|com.oppo.rftoolkit
+com.android.phone.auto_generated_rro_product__|com.android.phone.auto_generated_rro_product__
+android.unisoc.navbar.overlay|android.unisoc.navbar.overlay
+Photos|com.coloros.gallery3d
+android.auto_generated_rro_product__|android.auto_generated_rro_product__
+RuntimeTest|com.yha.runtime
+Find My Device|com.google.android.apps.adm
+com.unisoc.color_display.overlay|com.unisoc.color_display.overlay
+android.unisoc.display_doze.overlay|android.unisoc.display_doze.overlay
+com.android.wifi.resources.uni_marlin3|com.android.wifi.resources.uni_marlin3
+DeviceLockController|com.android.devicelockcontroller
+android.unisoc.color_display.overlay|android.unisoc.color_display.overlay
+Photos & videos|com.google.android.photopicker
+Android Switch|com.google.android.apps.restore
