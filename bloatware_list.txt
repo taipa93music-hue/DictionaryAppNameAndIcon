@@ -13,3 +13,24 @@ Netflix|com.netflix.mediaclient
 YouTube Music|com.google.android.apps.youtube.music
 Google One|com.google.android.apps.subscriptions.red
 Mi Coin|com.xiaomi.payment
+유독|com.lguplus.mobile.pogg
+뮤직벨링|com.lgu
+VIBE|com.naver.vibe
+V 컬러링|com.sktelecom.vcoloring
+U+크루콜|com.lguplus.conference
+U+스팸전화알림|com.lguplus.spamcallnoti
+U+스마트홈|com.lguplus.homeiot
+U+모바일매니저|lgt.call
+Tin tức Samsung|com.samsung.android.app.spage
+SmartThings|com.samsung.android.oneconnect
+Samsung Wallet|com.samsung.android.spay
+Samsung Notes|com.samsung.android.app.notes
+Samsung Members|com.samsung.android.voc
+Samsung Kids|com.sec.android.app.kidshome
+Samsung Health|com.sec.android.app.shealth
+Samsung Global Goals|com.samsung.sree
+Reminder|com.samsung.android.app.reminder
+PASS|com.lguplus.smartotp
+Gaming Hub|com.samsung.android.game.gamehome
+Galaxy Wearable|com.samsung.android.app.watchmanager
+Dr.Capsule|com.estsoft.alyac
