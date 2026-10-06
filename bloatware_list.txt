@@ -66,3 +66,4 @@ Syrup|com.skt.skaf.OA00026910
 Nate|com.nate.android.portalmini
 Wavve|kr.co.captv.pooqV2
 Uber|com.ubercab
+initial|com.sktelecom.myinitial
