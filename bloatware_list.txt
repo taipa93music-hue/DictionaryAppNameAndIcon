@@ -41,3 +41,24 @@ Samsung Pass|com.samsung.android.samsungpass
 원스토어|com.lguplus.appstore
 원스토어 서비스|com.skt.skaf.OA00018282
 U+ Global|com.lguplus.mobile.cs
+하나핀크|com.finnq.f1
+원스토어|com.skt.skaf.A000Z00040
+에이닷|com.skt.nugu.apollo
+모바일 신분증 안전지갑|com.samsung.android.ssiframework
+TMAP|com.skt.tmap.ku
+T.động điền bằng Samsung Pass|com.samsung.android.samsungpassautofill
+T 멤버십|com.tms
+T world|com.sktelecom.minit
+T Service|com.skt.t_smart_charge
+T ID|com.sktelecom.tid
+T deal|com.sktelecom.tdeal
+SmartPush|com.skt.skaf.OA00199800
+PASS|com.sktelecom.tauth
+OK Cashbag|com.skmc.okcashbag.home_google
+NUGU|com.skt.aladdin
+Galaxy Buds|com.samsung.accessory.budsunitemgr
+FLO|skplanet.musicmate
+Bill Letter|com.skt.smartbill
+A. phone|com.skt.prod.dialer
+11st|com.elevenst
+11pay|com.elevenst.skpay
