@@ -67,3 +67,11 @@ Nate|com.nate.android.portalmini
 Wavve|kr.co.captv.pooqV2
 Uber|com.ubercab
 initial|com.sktelecom.myinitial
+원스토어|com.kt.olleh.storefront
+마이 케이티|com.ktshow.cs
+Wearable Manager Installer|com.samsung.android.app.watchmanagerstub
+PASS|com.kt.ktauth
+KT 금융유심관리|com.kt.ollehusimmanager
+KT 고객 특화 서비스|com.kt.olleh.servicemenu
+KT service agent|com.kt.serviceagent
+KT Hidden Menu|com.samsung.hidden.KT
