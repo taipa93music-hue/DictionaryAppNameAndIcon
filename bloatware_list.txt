@@ -1,1 +1,2 @@
-
+원스토어 서비스|com.skt.skaf.OA00018282
+원스토어|com.lguplus.appstore
