@@ -20,6 +20,7 @@ Samsung Notes|com.samsung.android.app.notes
 Tin tức Samsung|com.samsung.android.app.spage
 PASS|com.lguplus.smartotp
 VIBE|com.naver.vibe
+Dr.Capsule|com.estsoft.alyac
 Mi Home|com.xiaomi.smarthome
 WPS Office|cn.wps.moffice_eng
 Xiaomi Community|com.mi.global.bbs
@@ -35,3 +36,7 @@ Netflix|com.netflix.mediaclient
 YouTube Music|com.google.android.apps.youtube.music
 Google One|com.google.android.apps.subscriptions.red
 Mi Coin|com.xiaomi.payment
+Reminder|com.samsung.android.app.reminder
+Samsung Global Goals|com.samsung.sree
+Samsung Health|com.sec.android.app.shealth
+Samsung Kids|com.sec.android.app.kidshome
