@@ -27,8 +27,11 @@ Báo Mới|com.epi
 LinkedIn|com.linkedin.android
 Google TV|com.google.android.videos
 Spotify|com.spotify.music
+Game Center|com.xiaomi.glgm
 Amazon Shopping|com.amazon.mShop.android.shopping
 Booking.com|com.booking
 Mi Store|com.mi.global.shop
 Netflix|com.netflix.mediaclient
 YouTube Music|com.google.android.apps.youtube.music
+Google One|com.google.android.apps.subscriptions.red
+Mi Coin|com.xiaomi.payment
