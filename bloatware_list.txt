@@ -12,3 +12,4 @@ SamsungTTS US English Voice 1|com.samsung.SMT.lang_en_us_l03
 Galaxy Wearable|com.samsung.android.app.watchmanager
 U+스마트홈|com.lguplus.homeiot
 Galaxy Buds|com.samsung.accessory.budsunitemgr
+Gaming Hub|com.samsung.android.game.gamehome
