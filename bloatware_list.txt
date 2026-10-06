@@ -20,3 +20,15 @@ Samsung Notes|com.samsung.android.app.notes
 Tin tức Samsung|com.samsung.android.app.spage
 PASS|com.lguplus.smartotp
 VIBE|com.naver.vibe
+Mi Home|com.xiaomi.smarthome
+WPS Office|cn.wps.moffice_eng
+Xiaomi Community|com.mi.global.bbs
+Báo Mới|com.epi
+LinkedIn|com.linkedin.android
+Google TV|com.google.android.videos
+Spotify|com.spotify.music
+Amazon Shopping|com.amazon.mShop.android.shopping
+Booking.com|com.booking
+Mi Store|com.mi.global.shop
+Netflix|com.netflix.mediaclient
+YouTube Music|com.google.android.apps.youtube.music
