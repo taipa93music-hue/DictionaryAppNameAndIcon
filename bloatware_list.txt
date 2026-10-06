@@ -34,3 +34,7 @@ PASS|com.lguplus.smartotp
 Gaming Hub|com.samsung.android.game.gamehome
 Galaxy Wearable|com.samsung.android.app.watchmanager
 Dr.Capsule|com.estsoft.alyac
+Android System Intelligence|com.google.android.as
+Gemini|com.google.android.apps.bard
+Health Connect|com.google.android.healthconnect.controller
+Samsung Pass|com.samsung.android.samsungpass
