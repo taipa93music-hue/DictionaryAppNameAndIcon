@@ -1,2 +1,9 @@
 원스토어 서비스|com.skt.skaf.OA00018282
 원스토어|com.lguplus.appstore
+유독|com.lguplus.mobile.pogg
+뮤직벨링|com.lgu
+V 컬러링|com.sktelecom.vcoloring
+U+크루콜|com.lguplus.conference
+U+스팸전화알림|com.lguplus.spamcallnoti
+U+모바일매니저|lgt.call
+U+ Global|com.lguplus.mobile.cs
