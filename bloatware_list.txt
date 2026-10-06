@@ -7,3 +7,5 @@ U+크루콜|com.lguplus.conference
 U+스팸전화알림|com.lguplus.spamcallnoti
 U+모바일매니저|lgt.call
 U+ Global|com.lguplus.mobile.cs
+SamsungTTS 한국어|com.samsung.SMT.lang_ko_kr_r00
+SamsungTTS US English Voice 1|com.samsung.SMT.lang_en_us_l03
