@@ -1,3 +1,21 @@
+Galaxy Wearable|com.samsung.android.app.watchmanager
+Gaming Hub|com.samsung.android.game.gamehome
+Dr.Capsule|com.estsoft.alyac
+PASS|com.lguplus.smartotp
+Samsung Browser|com.sec.android.app.sbrowser
+Samsung Global Goals|com.samsung.sree
+Samsung Health|com.sec.android.app.shealth
+Samsung Members|com.samsung.android.voc
+Samsung Notes|com.samsung.android.app.notes
+Tin tức Samsung|com.samsung.android.app.spage
+U+모바일매니저|lgt.call
+Samsung Kids|com.sec.android.app.kidshome
+SmartThings|com.samsung.android.oneconnect
+U+크루콜|com.lguplus.conference
+U+스마트홈|com.lguplus.homeiot
+U+스팸전화알림|com.lguplus.spamcallnoti
+Samsung Wallet|com.samsung.android.spay
+Reminder|com.samsung.android.app.reminder
 Mi Home|com.xiaomi.smarthome
 WPS Office|cn.wps.moffice_eng
 Xiaomi Community|com.mi.global.bbs
@@ -13,3 +31,7 @@ Netflix|com.netflix.mediaclient
 YouTube Music|com.google.android.apps.youtube.music
 Google One|com.google.android.apps.subscriptions.red
 Mi Coin|com.xiaomi.payment
+유독|com.lguplus.mobile.pogg
+뮤직벨링|com.lgu
+VIBE|com.naver.vibe
+V 컬러링|com.sktelecom.vcoloring
