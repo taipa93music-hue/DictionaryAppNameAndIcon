@@ -13,3 +13,10 @@ Galaxy Wearable|com.samsung.android.app.watchmanager
 U+스마트홈|com.lguplus.homeiot
 Galaxy Buds|com.samsung.accessory.budsunitemgr
 Gaming Hub|com.samsung.android.game.gamehome
+SmartThings|com.samsung.android.oneconnect
+Samsung Members|com.samsung.android.voc
+Samsung Wallet|com.samsung.android.spay
+Samsung Notes|com.samsung.android.app.notes
+Tin tức Samsung|com.samsung.android.app.spage
+PASS|com.lguplus.smartotp
+VIBE|com.naver.vibe
