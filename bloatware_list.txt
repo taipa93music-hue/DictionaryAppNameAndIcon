@@ -64,3 +64,5 @@ A. phone|com.skt.prod.dialer
 11pay|com.elevenst.skpay
 Syrup|com.skt.skaf.OA00026910
 Nate|com.nate.android.portalmini
+Wavve|kr.co.captv.pooqV2
+Uber|com.ubercab
