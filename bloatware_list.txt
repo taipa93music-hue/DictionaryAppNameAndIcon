@@ -9,3 +9,6 @@ U+모바일매니저|lgt.call
 U+ Global|com.lguplus.mobile.cs
 SamsungTTS 한국어|com.samsung.SMT.lang_ko_kr_r00
 SamsungTTS US English Voice 1|com.samsung.SMT.lang_en_us_l03
+Galaxy Wearable|com.samsung.android.app.watchmanager
+U+스마트홈|com.lguplus.homeiot
+Galaxy Buds|com.samsung.accessory.budsunitemgr
