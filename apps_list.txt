@@ -3571,3 +3571,427 @@ NetworkStackGoogleResOverlay|com.mediatek.networkstack.nongooverlay
 Smartcard Service|com.sktelecom.smartcard.SmartcardService
 com.mediatek.gbaservice|com.mediatek.gbaservice
 com.mediatek.MtkTelephonyServiceResOverlay|com.mediatek.MtkTelephonyServiceResOverlay
+Samsung Free|com.samsung.android.app.spage
+Lịch|com.samsung.android.calendar
+Google Play Services for AR|com.google.ar.core
+Gaming Hub|com.samsung.android.game.gamehome
+Tethering|com.google.android.networkstack.tethering
+Filter Provider|com.samsung.android.provider.filterprovider
+Thiết bị ở gần|com.samsung.android.mydevice
+com.android.cts.priv.ctsshim|com.android.cts.priv.ctsshim
+com.samsung.android.smartswitchassistant|com.samsung.android.smartswitchassistant
+NSDSWebApp|com.sec.vsim.ericssonnsds.webapp
+SetupWizardLegalProvider|com.sec.android.app.setupwizardlegalprovider
+YouTube|com.google.android.youtube
+Samsung Location SDK|com.sec.location.nsflp2
+System UWB Resources|com.android.uwb.resources
+Galaxy Themes|com.samsung.android.themestore
+ChromeCustomizations|com.sec.android.app.chromecustomizations
+Vết cắt ở góc|com.android.internal.display.cutout.emulation.corner
+Android Services Library|com.google.android.ext.services
+SamsungTTS Brazilian Portuguese Default voice 1 - Classic|com.samsung.SMT.lang_pt_br_f00
+KnoxFrameBufferProvider|com.samsung.android.knox.kfbp
+KnoxNeuralNetworkRuntime|com.samsung.android.knox.knnr
+com.samsung.android.knox.mpos|com.samsung.android.knox.mpos
+Vết cắt kép|com.android.internal.display.cutout.emulation.double
+Service provider location|com.sec.location.nfwlocationprivacy
+Liên kết với Windows|com.microsoft.appmanager
+Bộ nhớ đ.thoại+tin nhắn|com.android.providers.telephony
+Sửa tài nguyên Samsung|com.sec.android.app.ve.vebgm
+DRParser Mode|com.sec.android.app.parser
+Dynamic System Updates|com.android.dynsystem
+NetworkStackOverlay|com.samsung.android.networkstack
+Google|com.google.android.googlequicksearchbox
+Bluetooth Agent|com.sec.android.app.bluetoothagent
+Cell Broadcast Service|com.google.android.cellbroadcastservice
+Lưu trữ lịch|com.android.providers.calendar
+Samsung account|com.osp.app.signin
+SOS khẩn cấp|com.samsung.android.emergency
+Hình đại diện Galaxy|com.samsung.android.aremoji
+TetheringAutomation|com.sec.automation
+com.android.providers.media|com.android.providers.media
+Google One Time Init|com.google.android.onetimeinitializer
+Android Shared Library|com.google.android.ext.shared
+com.android.virtualmachine.res|com.android.virtualmachine.res
+com.samsung.android.nfc.resources.korea|com.samsung.android.nfc.resources.korea
+Galaxy editing service|com.samsung.android.globalpostprocmgr
+com.android.wallpapercropper|com.android.wallpapercropper
+com.google.android.federatedcompute|com.google.android.federatedcompute
+com.samsung.android.wallpaper.res|com.samsung.android.wallpaper.res
+Smart View|com.samsung.android.smartmirroring
+SKMSAgentService|com.skms.android.agent
+Ứng dụng khuyên dùng|com.samsung.android.mapsagent
+com.samsung.android.knox.er|com.samsung.android.knox.er
+Chia sẻ khẩn cấp|com.sec.android.app.safetyassurance
+LGU_GPSnWPS|com.lguplus.lgugpsnwps
+Cuộc gọi|com.samsung.android.incallui
+KnoxCore|com.samsung.android.knox.containercore
+com.google.android.server.deviceconfig.resources|com.google.android.server.deviceconfig.resources
+Tag|com.samsung.android.service.tagservice
+Anh Tai Mobile|com.vendor.apphelper
+Trình cài đặt Samsung Kids|com.samsung.android.kidsinstaller
+FactoryCamera|com.sec.factory.camera
+USBSettings|com.sec.usbsettings
+com.android.providers.telephony.auto_generated_characteristics_rro|com.android.providers.telephony.auto_generated_characteristics_rro
+Dò tìm thiết bị ở gần|com.samsung.android.easysetup
+Bộ nhớ ngoài|com.android.externalstorage
+Trình quản lý Chia sẻ nhanh|com.samsung.android.aware.service
+EasyOneHand|com.sec.android.easyonehand
+Trình xem HTML|com.android.htmlviewer
+Hiệu ứng video|com.samsung.android.vtcamerasettings
+Trình quản lý thiết bị đồng hành|com.android.companiondevicemanager
+MmsService|com.android.mms.service
+Dịch vụ tùy chỉnh|com.samsung.android.rubin.app
+Trình quản lý Tải xuống|com.android.providers.downloads
+SamsungTTS 한국어|com.samsung.SMT.lang_ko_kr_r00
+com.google.android.health.connect.backuprestore|com.google.android.health.connect.backuprestore
+com.android.systemui.auto_generated_rro_product__|com.android.systemui.auto_generated_rro_product__
+Smart Switch Agent|com.sec.android.easyMover.Agent
+com.google.android.networkstack.tethering.overlay|com.google.android.networkstack.tethering.overlay
+Tin nhắn cấu hình|com.wsomacp
+iaft|com.sec.android.iaft
+FaceService|com.samsung.faceservice
+GPUWatch|com.samsung.gpuwatchapp
+Sim Agent|com.samsung.android.simagent
+Foundation|com.monotype.android.font.foundation
+Danh bạ yêu thích|com.sec.android.widgetapp.easymodecontactswidget
+KPECore|com.samsung.android.knox.kpecore
+Kiểm soát truy cập|com.samsung.android.app.parentalcare
+com.samsung.slsi.telephony.silentlogging|com.samsung.slsi.telephony.silentlogging
+KnoxPushManager|com.samsung.android.knox.pushmanager
+DeviceKeystring|com.sec.android.app.factorykeystring
+KnoxNetworkFilter|com.samsung.android.knox.app.networkfilter
+Galaxy Store|com.sec.android.app.samsungapps
+Đ.khiển đa thiết bị|com.samsung.android.inputshare
+ConfigUpdater|com.google.android.configupdater
+WlanTest|com.sec.android.app.wlantest
+TalkBack|com.samsung.android.accessibility.talkback
+Công cụ chọn nội dung đa phương tiện|com.google.android.providers.media.module
+SmartFPSAdjuster|com.sec.android.smartfpsadjuster
+com.google.android.overlay.modules.permissioncontroller|com.google.android.overlay.modules.permissioncontroller
+Samsung Checkout|com.sec.android.app.billing
+Chọn một hình ảnh|com.android.avatarpicker
+Samsung Visual Cloud Core|com.samsung.android.visual.cloudcore
+EpdgTestApp|com.sec.epdgtestapp
+KnoxZT Framework|com.samsung.android.knox.zt.framework
+com.samsung.android.wifi.p2paware.resources|com.samsung.android.wifi.p2paware.resources
+Thời tiết|com.sec.android.daemonapp
+Samsung Call Media|com.sec.sve
+Tệp đã tải xuống|com.android.providers.downloads.ui
+Cửa hàng Google Play|com.android.vending
+PacProcessor|com.android.pacprocessor
+Hộp thoại ứng dụng SIM|com.android.simappdialog
+com.samsung.android.knox.attestation|com.samsung.android.knox.attestation
+SecSoundPicker|com.samsung.android.secsoundpicker
+Quyền riêng tư trong quảng cáo|com.google.android.adservices.api
+Gestural Navigation Bar|com.samsung.internal.systemui.navbar.sec_gestural
+Vết cắt trên Punch Hole|com.android.internal.display.cutout.emulation.hole
+Vết cắt cao|com.android.internal.display.cutout.emulation.tall
+Samsung Intelligence Service|com.samsung.android.intellivoiceservice
+Hiệu ứng và chất lượng âm thanh|com.sec.android.app.soundalive
+Knox Matrix|com.samsung.android.kmxservice
+BadgeProvider|com.sec.android.provider.badge
+Trình cài đặt chứng chỉ|com.android.certinstaller
+Motionphoto|com.samsung.android.motionphoto.app
+com.android.carrierconfig|com.android.carrierconfig
+3 Button Navigation Bar|com.android.internal.systemui.navbar.threebutton
+com.android.wifi.dialog|com.android.wifi.dialog
+Công cụ văn bản sang giọng nói Samsung|com.samsung.SMT
+CMHProvider|com.samsung.cmh
+Hệ thống Android|android
+Hey Google Hotword|com.android.hotwordenrollment.xgoogle
+com.samsung.android.wifi.increase.scan.interval.resources|com.samsung.android.wifi.increase.scan.interval.resources
+WcmUrlsNetworkStackOverlay|com.samsung.android.wcmurlsnetworkstack
+Bảo vệ ứng dụng|com.samsung.android.sm.devicesecurity
+com.google.android.overlay.modules.cellbroadcastreceiver|com.google.android.overlay.modules.cellbroadcastreceiver
+Gestural Navigation Bar|com.samsung.internal.systemui.navbar.sec_gestural_no_hint
+SamsungTTS Mexican Spanish Voice 1|com.samsung.SMT.lang_es_mx_f00
+FACM|com.samsung.android.aircommandmanager
+com.google.android.sdksandbox|com.google.android.sdksandbox
+Mẹo Wi-Fi|com.samsung.android.net.wifi.wifiguider
+com.samsung.android.wifi.softapdun.resources|com.samsung.android.wifi.softapdun.resources
+com.samsung.android.wifi.softapwpathree.resources|com.samsung.android.wifi.softapwpathree.resources
+SmartThings Companion|com.samsung.android.service.stplatform
+SmartFaceService|com.samsung.android.smartface
+Android Easter Egg|com.android.egg
+Máy chủ MTP|com.android.mtp
+Dịch vụ NFC|com.android.nfc
+com.android.ons|com.android.ons
+Ứng dụng SIM|com.android.stk
+Tin nhắn|com.samsung.android.messaging
+com.android.backupconfirm|com.android.backupconfirm
+KLMS Agent|com.samsung.klmsagent
+SamsungTTS US English Voice 1|com.samsung.SMT.lang_en_us_l03
+Hướng dẫn cài đặt Samsung|com.sec.android.app.SecSetupWizard
+MFContents|com.samsung.mfcontents
+Cài đặt cuộc gọi|com.samsung.android.app.telephonyui
+com.samsung.android.wifi.softap.resources|com.samsung.android.wifi.softap.resources
+SamsungPositioning|com.samsung.android.samsungpositioning
+Gmail|com.google.android.gm
+com.samsung.android.wifi.largetcpbuffer.resources|com.samsung.android.wifi.largetcpbuffer.resources
+Meet Installer|com.google.android.apps.tachyon
+UsimDownload|com.sec.android.UsimRegistrationKOR
+com.google.android.overlay.gmsconfig.common|com.google.android.overlay.gmsconfig.common
+Kế thừa kỹ thuật số|com.samsung.android.digitallegacy
+HwModuleTest|com.sec.android.app.hwmoduletest
+Gợi ý cài đặt|com.android.settings.intelligence
+com.sec.bcservice|com.sec.bcservice
+SilentLogging|com.sec.modem.settings
+SamsungOne|com.monotype.android.font.samsungone
+Sử dụng quyền|com.samsung.android.privacydashboard
+Trình điều khiển quyền|com.google.android.permissioncontroller
+Service mode|com.sec.android.app.servicemodeapp
+Thiết lập Android|com.google.android.setupwizard
+Bộ sưu tập|com.sec.android.gallery3d
+Lưu trữ bộ nhớ|com.android.providers.settings
+VolumeMonitorProvider|com.sec.android.app.volumemonitorprovider
+Hỗ trợ|com.samsung.accessibility
+IMS Service|com.sec.imsservice
+com.android.sharedstoragebackup|com.android.sharedstoragebackup
+Chia sẻ nhóm|com.samsung.android.mobileservice
+Print Spooler|com.android.printspooler
+DrmEventapp|com.samsung.drmboost
+OK Google Hotword|com.android.hotwordenrollment.okgoogle
+Kết nối Chia sẻ nhanh|com.samsung.android.mdx.kit
+C.chuyện trong Bộ s.tập|com.samsung.storyservice
+Chế độ ngủ cơ bản|com.android.dreams.basic
+com.android.providers.settings.auto_generated_rro_product__|com.android.providers.settings.auto_generated_rro_product__
+com.google.android.overlay.modules.ext.services|com.google.android.overlay.modules.ext.services
+Private Compute Services|com.google.android.as.oss
+Tự động chặn|com.samsung.android.rampart
+PhoneNumberService|com.sec.android.app.RilPhoneNumberService
+SecureElementApplication|com.android.se
+Thiết bị đầu vào|com.android.inputdevices
+com.samsung.android.wifi.resources|com.samsung.android.wifi.resources
+com.google.android.overlay.gmsconfig.photos|com.google.android.overlay.gmsconfig.photos
+Device Services|com.samsung.android.kgclient
+Thư mục bảo mật|com.samsung.knox.securefolder
+Dịch vụ in mặc định|com.android.bips
+Chép lời trực tiếp và Thông báo âm thanh|com.google.audio.hearing.visualization.accessibility.scribe
+Game Booster|com.samsung.android.game.gametools
+Danh bạ|com.samsung.android.app.contacts
+Người|com.samsung.android.service.peoplestripe
+Dual Messenger|com.samsung.android.da.daagent
+Đăng nhập trang xác thực|com.google.android.captiveportallogin
+com.google.android.overlay.gmsconfig.geotz|com.google.android.overlay.gmsconfig.geotz
+com.google.android.appsearch.apk|com.google.android.appsearch.apk
+Smart Call|com.samsung.android.smartcallprovider
+Samsung capture|com.samsung.android.app.smartcapture
+Maps|com.google.android.apps.maps
+Main components|com.google.android.modulemetadata
+Nhiệm vụ|com.samsung.android.app.taskedge
+Dịch vụ hình nền|com.samsung.android.dynamiclock
+IMS Settings|com.samsung.advp.imssettings
+slocation|com.samsung.android.location
+Đồng hồ|com.sec.android.app.clockpackage
+Service mode RIL|com.sec.android.RilServiceModeApp
+Android System WebView|com.google.android.webview
+Gọi & nhắn tin trên thiết bị khác|com.samsung.android.mdecservice
+com.google.android.overlay.modules.documentsui|com.google.android.overlay.modules.documentsui
+EsimClient|com.samsung.android.app.telephonyui.esimclient
+WiFiAiService|com.samsung.android.wifi.ai
+Trình quản lý mạng|com.google.android.networkstack
+RemoteProvisioner|com.google.android.rkpdapp
+Cuộc gọi điện thoại|com.android.server.telecom
+Điện thoại|com.samsung.crane
+ImsLogger|com.sec.imslogger
+Key Chain|com.android.keychain
+com.android.server.telecom.auto_generated_rro_product__|com.android.server.telecom.auto_generated_rro_product__
+com.android.phone.auto_generated_characteristics_rro|com.android.phone.auto_generated_characteristics_rro
+Xác minh tự động|com.samsung.android.privateaccesstokens
+Chrome|com.android.chrome
+com.google.android.overlay.modules.healthfitness.forframework|com.google.android.overlay.modules.healthfitness.forframework
+Dịch vụ Galaxy Themes|com.samsung.android.themecenter
+MobileWips|com.samsung.android.server.wifi.mobilewips
+Trình cài đặt gói|com.google.android.packageinstaller
+Dịch vụ Google Play|com.google.android.gms
+Khung Dịch vụ của Google|com.google.android.gsf
+Nhận dạng và tổng hợp giọng nói của Google|com.google.android.tts
+ConfigAPK|android.autoinstalls.config.samsung
+Các tài nguyên Wi-Fi của hệ thống|com.android.wifi.resources
+ContainerService|com.samsung.android.container
+Call Log Backup/Restore|com.android.calllogbackup
+Google Partner Setup|com.google.android.partnersetup
+CameraExtensionsProxy|com.android.cameraextensions
+My Galaxy|com.mygalaxy.service
+DiagMonAgent|com.sec.android.diagmonagent
+com.android.localtransport|com.android.localtransport
+com.google.android.overlay.gmsconfig.asi|com.google.android.overlay.gmsconfig.asi
+com.google.android.overlay.gmsconfig.gsa|com.google.android.overlay.gmsconfig.gsa
+Sinh trắc học|com.samsung.android.biometrics.app.setting
+com.samsung.android.smartface.overlay|com.samsung.android.smartface.overlay
+Samsung Push Service|com.sec.spp.push
+Thông báo của nhà mạng|com.android.carrierdefaultapp
+Trình quản lý thông tin xác thực|com.android.credentialmanager
+Trình sửa nhân vật đại diện|com.samsung.android.aremojieditor
+Noto Serif / Source Sans Pro|com.android.theme.font.notoserifsource
+File của bạn|com.sec.android.app.myfiles
+ProxyHandler|com.android.proxyhandler
+Tài nguyên Trung tâm An toàn của Google|com.google.android.safetycenter.resources
+Vết cắt thác nước|com.android.internal.display.cutout.emulation.waterfall
+IntentResolver|com.android.intentresolver
+Chế độ và Lịch trình|com.samsung.android.app.routines
+Transparent navigation bar|com.android.internal.systemui.navbar.transparent
+Trình sửa ảnh|com.sec.android.mimage.photoretouching
+Trang chủ One UI|com.sec.android.app.launcher
+ContactsKeys Storage|com.android.providers.contactkeys
+Tài nguyên kết nối hệ thống|com.google.android.connectivity.resources
+com.google.android.overlay.modules.permissioncontroller.forframework|com.google.android.overlay.modules.permissioncontroller.forframework
+Tác nhân p.hồi Market|com.google.android.feedback
+Print Service Recommendation Service|com.google.android.printservice.recommendation
+CameraLightSensor|com.samsung.adaptivebrightnessgo
+TEEgrisTuiService|com.samsung.sec.android.teegris.tui_service
+Đồng bộ hóa lịch của Google|com.google.android.syncadapters.calendar
+Thiết lập hồ sơ công việc|com.android.managedprovisioning
+Âm thanh ứng dụng riêng biệt|com.samsung.android.setting.multisound
+Authentication Framework|com.samsung.android.authfw
+Samsung Wallpaper|com.samsung.android.wallpaper.live
+Files|com.google.android.documentsui
+ConnectivityUxOverlay|com.samsung.android.ConnectivityUxOverlay
+Trình bảo vệ màn hình ảnh|com.android.dreams.phototable
+BixbyVision Framework|com.samsung.android.bixbyvision.framework
+Support components|com.google.mainline.telemetry
+Thông tin an toàn|com.samsung.safetyinformation
+Điện thoại|com.samsung.android.dialer
+com.samsung.android.wifi.h2e.resources|com.samsung.android.wifi.h2e.resources
+DQA|com.samsung.android.dqagent
+Game Optimizing Service|com.samsung.android.game.gos
+DeviceDiagnostics|com.android.devicediagnostics
+Tiện ích số|com.samsung.android.forest
+OCRDataProvider|com.samsung.android.sdk.ocr
+Studio|com.sec.android.app.vepreload
+com.android.providers.partnerbookmarks|com.android.providers.partnerbookmarks
+HdmApp|com.samsung.android.hdmapp
+Notes Role enabled|com.android.role.notes.enabled
+Crocro và bạn bè|com.samsung.android.app.camera.sticker.facearavatar.preload
+Trình chọn Hình nền Động|com.android.wallpaper.livepicker
+Phần mềm dò tìm thiết bị ở gần|com.samsung.android.beaconmanager
+Gestural Navigation Bar|com.samsung.internal.systemui.navbar.gestural_no_hint
+Tag|com.android.apps.tag
+Main components|com.google.mainline.adservices
+Dịch vụ cuộc gọi|com.samsung.android.callassistant
+IMS Device Management|com.ims.dm
+ConnectivityOverlay|com.samsung.android.ConnectivityOverlay
+Sticker Center|com.samsung.android.stickercenter
+Dịch vụ Hướng dẫn số|com.samsung.kt114provider2
+Samsung Media Storage|com.samsung.android.providers.media
+Cập nhật phần mềm|com.sec.android.soagent
+SecTrashProvider|com.samsung.android.providers.trash
+CcInfo|com.sec.android.CcInfo
+Tự động vẽ tay|com.sec.android.autodoodle.service
+Công cụ|com.sec.android.app.quicktool
+Tìm di động của bạn|com.samsung.android.fmm
+Galaxy Resource Updater|com.samsung.android.gru
+Knox Core Service|com.samsung.android.mdm
+Liên kết với Dịch vụ Windows|com.samsung.android.mdx
+Ứng dụng MTP|com.samsung.android.mtp
+NFC|com.samsung.android.nfc
+Samsung Core Services|com.samsung.android.scs
+Wi-Fi Calling|com.sec.unifiedwfc
+com.sec.phone|com.sec.phone
+AudioMirroring|com.samsung.android.audiomirroring
+Ứng dụng riêng biệt|com.samsung.android.appseparation
+Chế độ kiểm soát của cha mẹ trên hệ thống|com.google.android.gms.supervision
+Cập nhật ứng dụng|com.samsung.android.app.updatecenter
+Bàn phím Samsung|com.samsung.android.honeyboard
+KnoxSandbox|com.samsung.android.knox.sandbox
+Trình quản lý bộ nhớ|com.android.storagemanager
+Samsung Cloud|com.samsung.android.scloud
+Bộ chọn âm thanh|com.samsung.android.app.soundpicker
+Chia sẻ nhanh|com.samsung.android.app.sharelive
+Lỗi|com.sec.app.RilErrorNotifier
+Bookmark Provider|com.android.bookmarkprovider
+Cài đặt|com.android.settings
+Bộ sưu tập|com.samsung.android.widget.pictureframe
+Trình biên tập bản thu gọn|com.samsung.app.newtrim
+Thiết lập dịch vụ Galaxy|com.samsung.android.dbsc
+Dsms|com.samsung.android.dsms
+Chăm sóc thiết bị|com.samsung.android.lool
+Samsung Cloud Assistant|com.samsung.android.scpm
+Samsung Device Health Manager Service|com.sec.android.sdhms
+SettingsHelper|com.samsung.android.settingshelper
+Sticker Ảnh đại diện|com.sec.android.mimage.avatarstickers
+Knox Analytics Uploader|com.samsung.android.knox.analytics.uploader
+com.google.android.overlay.modules.captiveportallogin.forframework|com.google.android.overlay.modules.captiveportallogin.forframework
+Launcher|com.sec.android.emergencylauncher
+Android Auto|com.google.android.projection.gearhead
+Chỉnh âm|com.sec.hearingadjust
+Smart Switch|com.sec.android.easyMover
+Device Health Services|com.google.android.apps.turbo
+Bảo vệ cho mắt thoải mái|com.samsung.android.bluelightfilter
+BBCAgent|com.samsung.android.bbc.bbcagent
+Bixby Vision|com.samsung.android.visionintelligence
+Tai nghe USB-C Samsung|com.samsung.android.app.earphonetypec
+Chụp một chạm|com.samsung.android.singletake.service
+CallBGProvider|com.samsung.android.callbgprovider
+com.sec.android.app.qsfastpairoverlay|com.sec.android.app.qsfastpairoverlay
+KnoxVpnPacProcessor|com.knox.vpn.proxyhandler
+com.android.cts.ctsshim|com.android.cts.ctsshim
+SamsungOdaService|com.samsung.oda.service
+SVC Agent|com.samsung.android.svcagent
+com.google.android.overlay.modules.modulemetadata.forframework|com.google.android.overlay.modules.modulemetadata.forframework
+Điểm truy cập tự động|com.sec.mhs.smarttethering
+PhotoRemasterService|com.samsung.android.photoremasterservice
+ChẩnĐoánMạng|com.samsung.android.networkdiagnostic
+ShortcutBNR|com.samsung.android.shortcutbackupservice
+Samsung Multi Connectivity|com.samsung.android.mcfserver
+VpnDialogs|com.android.vpndialogs
+com.samsung.android.networkstack.tethering.overlay|com.samsung.android.networkstack.tethering.overlay
+FacAtFunction|com.sec.facatfunction
+Lưu trữ danh bạ|com.samsung.android.providers.contacts
+Dịch vụ điện thoại|com.android.phone
+Shell|com.android.shell
+com.android.wallpaperbackup|com.android.wallpaperbackup
+Lưu số điện thoại bị chặn|com.android.providers.blockednumber
+Ứng dụng đề xuất|com.samsung.android.app.omcagent
+Hiya Service|com.hiya.star
+com.google.android.overlay.modules.cellbroadcastservice|com.google.android.overlay.modules.cellbroadcastservice
+Từ điển người dùng|com.android.providers.userdictionary
+Enrollment Service|com.sec.enterprise.knox.cloudmdm.smdms
+Google Wi-Fi Provisioner|com.google.android.apps.carrier.carrierwifi
+Cập nhật phần mềm|com.wssyncmldm
+VexFwkService|com.samsung.android.vexfwk.service
+OsuLogin|com.android.hotspot2.osulogin
+com.android.companiondevicemanager.auto_generated_characteristics_rro|com.android.companiondevicemanager.auto_generated_characteristics_rro
+Lịch sử vị trí trên Google|com.google.android.gms.location.history
+Gestural Navigation Bar|com.android.internal.systemui.navbar.gestural
+Vị trí được hợp nhất|com.android.location.fused
+com.sec.epdg|com.sec.epdg
+UI Hệ thống|com.android.systemui
+Perso|com.sec.android.app.personalization
+com.android.ondevicepersonalization.services.OnDevicePersonalizationApplication|com.google.android.ondevicepersonalization.services
+SoHService|com.samsung.sait.sohservice
+Cameralyzer|com.sec.factory.cameralyzer
+Bluetooth MIDI Service|com.android.bluetoothmidiservice
+HandwritingService|com.samsung.android.sdk.handwriting
+com.samsung.android.wifi.decrease.scan.interval.resources|com.samsung.android.wifi.decrease.scan.interval.resources
+Kiểu đồng hồ|com.samsung.android.app.clockpack
+SecurityPolicy|com.samsung.aasaservice
+Đề xuất từ dữ liệu cá nhân|com.samsung.android.smartsuggestions
+Theo dõi hệ thống|com.android.traceur
+Cảnh báo khẩn cấp qua mạng không dây|com.google.android.cellbroadcastreceiver
+Nearby Service|com.samsung.android.allshare.service.mediashare
+Radio|com.sec.android.app.fm
+com.android.phone.auto_generated_rro_product__|com.android.phone.auto_generated_rro_product__
+FactoryTestProvider|com.samsung.android.providers.factory
+SCameraXService|com.samsung.android.cameraxservice
+android.auto_generated_rro_product__|android.auto_generated_rro_product__
+Cập nhật cấu hình|com.samsung.android.cidmanager
+Máy ảnh|com.sec.android.app.camera
+CameraKit Plugin|com.snap.camerakit.plugin.v1
+Bluetooth|com.android.bluetooth
+Bộ nhớ tạm ở cạnh|com.samsung.android.app.clipboardedge
+IPService|com.samsung.ipservice
+QRreader|com.sec.android.QRreader
+Kính lúp|com.sec.android.app.magnifier
+CSC|com.samsung.sec.android.application.csc
+Roboto|com.monotype.android.font.roboto
+Thiết lập nhà cung cấp dịch vụ|com.samsung.android.sdm.config
+Hình nền và phong cách|com.samsung.android.app.dressroom
+Chân dung|com.samsung.android.app.dofviewer
+Ảnh và video|com.google.android.photopicker
+Continuity Service|com.samsung.android.mcfds
+MoccaMobile|com.samsung.android.mocca
+Trình phát video|com.samsung.android.video
+android.auto_generated_rro_vendor__|android.auto_generated_rro_vendor__
+Android Switch|com.google.android.apps.restore
