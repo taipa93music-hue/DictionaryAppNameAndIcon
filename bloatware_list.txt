@@ -76,3 +76,4 @@ KT 고객 특화 서비스|com.kt.olleh.servicemenu
 KT service agent|com.kt.serviceagent
 KT Hidden Menu|com.samsung.hidden.KT
 HPSClient2.0 Service|com.skt.hps20client
+Gợi ý|com.samsung.android.app.tips
