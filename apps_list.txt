@@ -3995,3 +3995,413 @@ MoccaMobile|com.samsung.android.mocca
 Trình phát video|com.samsung.android.video
 android.auto_generated_rro_vendor__|android.auto_generated_rro_vendor__
 Android Switch|com.google.android.apps.restore
+Sao chép điện thoại|com.coloros.backuprestore
+Tethering|com.google.android.networkstack.tethering
+com.mediatek.ims.ImsApp|com.mediatek.ims
+healthservice|com.oplus.healthservice
+com.android.cts.priv.ctsshim|com.android.cts.priv.ctsshim
+YouTube|com.google.android.youtube
+Vết cắt ở góc|com.android.internal.display.cutout.emulation.corner
+SmartEngine|com.oplus.smartengine
+Android Services Library|com.google.android.ext.services
+Vết cắt kép|com.android.internal.display.cutout.emulation.double
+Bộ nhớ tin nhắn/cuộc gọi thoại|com.android.providers.telephony
+Bàn phím bảo mật|com.oplus.securitykeyboard
+Dynamic System Updates|com.android.dynsystem
+CrashBox|com.oplus.crashbox
+Google|com.google.android.googlequicksearchbox
+Tạp chí màn hình khóa|com.heytap.pictorial
+Cell Broadcast Service|com.google.android.cellbroadcastservice
+VTVgo|vn.vtv.vtvgo
+Thanh bên thông minh|com.coloros.smartsidebar
+Dung lượng Lịch|com.android.providers.calendar
+Trợ lý|com.google.android.apps.googleassistant
+Telephony Assist|com.mediatek.telephony
+Zalo|com.zing.zalo
+com.android.providers.media|com.android.providers.media
+Theo dõi trong tai|com.coloros.karaoke
+TetheringResOverlay|com.android.networkstack.tethering.overlay
+Thời tiết|com.weatherteam.rainy.forecast.radar.widgets
+Google One Time Init|com.google.android.onetimeinitializer
+Android Shared Library|com.google.android.ext.shared
+Đám mây HeyTap|com.heytap.cloud
+Gestural Navigation Bar|com.android.internal.systemui.navbar.gestural_wide_back
+LPPe Service|com.mediatek.location.lppe.main
+Nhạc|com.heytap.music
+OPPO Store|com.heytap.store
+com.android.wifi.resources.overlay.oplus|com.android.wifi.resources.overlay.oplus
+OplusLocationService|com.oplus.location
+com.mediatek.SettingsProviderResOverlay|com.mediatek.SettingsProviderResOverlay
+com.mediatek.systemuiresoverlay|com.mediatek.systemuiresoverlay
+Trình khởi tạo hệ thống|com.android.launcher
+Anh Tai Mobile|com.vendor.apphelper
+Dịch vụ sau bán hàng|com.oppoex.afterservice
+TetheringResOverlay|com.android.networkstack.tethering.inprocess.overlay
+Hướng dẫn sử dụng|com.oppo.operationManual
+Ghi màn hình|com.oplus.screenrecorder
+com.android.wifi.resources.overlay|com.android.wifi.resources.overlay
+Bộ nhớ ngoài|com.android.externalstorage
+Trình xem HTML|com.android.htmlviewer
+Chẩn đoán|com.coloros.healthcheck
+Companion Device Manager|com.android.companiondevicemanager
+Dịch vụ thời tiết|com.coloros.weather.service
+Dịch vụ thông tin|com.android.mms.service
+Trình quản lý tải xuống|com.android.providers.downloads
+Power monitor|com.oplus.powermonitor
+Tin nhắn|com.google.android.apps.messaging
+TetheringResOverlay|com.google.android.networkstack.tethering.overlay
+EngineerMode|com.mediatek.engineermode
+com.oplus.framework.rro.oppo|com.oplus.framework.rro.oppo
+One Handed Mode|com.android.internal.systemui.onehanded.gestural
+com.mediatek.cellbroadcastuiresoverlay|com.mediatek.cellbroadcastuiresoverlay
+InterconnectCollectKit|com.oplus.interconnectcollectkit
+Dịch vụ thông thái|com.oplus.deepthinker
+sdk|com.oplus.qualityprotect
+Khôi phục ứng dụng hệ thống bị gỡ|com.oplus.apprecover
+Omacp|com.mediatek.omacp
+com.android.bluetooth.oplus.overlay|com.android.bluetooth.oplus.overlay
+NetworkStackInProcessResOverlay|com.android.networkstack.inprocess.overlay
+android.frameworkres.overlay.display.product|android.frameworkres.overlay.display.product
+Android Developer Verifier|com.google.android.verifier
+Chữ ký|com.google.android.signature
+Aod|com.oplus.aod
+NetworkHealthService|com.oplus.nhs
+Cập nhật phần mềm|com.oplus.ota
+Thanh toán bảo mật|com.oplus.pay
+Dịch vụ nâng cấp hệ thống|com.oplus.sau
+SOS khẩn cấp|com.oplus.sos
+OPPO của tôi|com.oplus.vip
+ConfigUpdater|com.google.android.configupdater
+Dịch vụ cử chỉ_chuyển động|com.oplus.exserviceui
+Công cụ chọn nội dung đa phương tiện|com.google.android.providers.media.module
+com.google.android.overlay.modules.permissioncontroller|com.google.android.overlay.modules.permissioncontroller
+Dịch vụ cập nhật|com.oplus.romupdate
+Zenzy|com.finshell.fin
+Chế độ tập trung|com.coloros.focusmode
+com.android.systemui.plugin.globalactions.wallet|com.android.systemui.plugin.globalactions.wallet
+ARCore|com.google.ar.core
+Ống kính|com.google.ar.lens
+Tệp đã tải xuống|com.android.providers.downloads.ui
+Cửa hàng Google Play|com.android.vending
+PacProcessor|com.android.pacprocessor
+Hộp thoại ứng dụng SIM|com.android.simappdialog
+OPPO Share|com.coloros.oshare
+Chế độ đơn giản|com.coloros.scenemode
+WeChat|com.tencent.mm
+Vết cắt trên Punch Hole|com.android.internal.display.cutout.emulation.hole
+Vết cắt cao|com.android.internal.display.cutout.emulation.tall
+com.android.vendors.bridge.softsim|com.android.vendors.bridge.softsim
+NetworkStackResOverlay|com.android.networkstack.overlay
+Trình cài đặt chứng chỉ|com.android.certinstaller
+com.oplus.framework_bluetooth.overlay|com.oplus.framework_bluetooth.overlay
+com.android.carrierconfig|com.android.carrierconfig
+Bộ hỗ trợ tiếp cận của Android|com.google.android.marvin.talkback
+3 Button Navigation Bar|com.android.internal.systemui.navbar.threebutton
+Đăng ký khi khởi động|com.coloros.bootreg
+Hệ thống Android|android
+Quản lý thông báo|com.oplus.notificationmanager
+Startup Wizard|com.oplus.upgradeguide
+Android S Easter Egg|com.android.egg
+Máy chủ MTP|com.android.mtp
+Dịch vụ NFC|com.android.nfc
+com.android.ons|com.android.ons
+Bộ công cụ SIM|com.android.stk
+Dịch vụ vị trí nhà mạng|com.oplus.locationproxy
+com.android.backupconfirm|com.android.backupconfirm
+CellBroadcastReceiverModuleOverlay|com.google.android.cellbroadcastreceiver.overlay
+Dirac Control Service|se.dirac.acs
+VNeID|com.vnid
+Thẻ bảo hành điện tử|com.coloros.activation
+Intent Filter Verification Service|com.android.statementservice
+Gmail|com.google.android.gm
+Device configuration|android.autoinstalls.config.oppo
+MDMLSample|com.mediatek.mdmlsample
+com.google.android.overlay.gmsconfig.common|com.google.android.overlay.gmsconfig.common
+SmartRatSwitch|com.mediatek.smartratswitch.service
+Settings Suggestions|com.android.settings.intelligence
+Viettel Tammi|com.viettel.appviettel
+com.mediatek.frameworkresoverlay|com.mediatek.frameworkresoverlay
+DebugLoggerUI|com.debug.loggerui
+CellBroadcastServiceModuleOverlay|com.google.android.cellbroadcastservice.overlay
+Gestural Navigation Bar|com.android.internal.systemui.navbar.gestural_extra_wide_back
+Trình điều khiển quyền|com.google.android.permissioncontroller
+com.android.carrierconfig.oplus.overlay|com.android.carrierconfig.oplus.overlay
+Thiết lập Android|com.google.android.setupwizard
+Lưu trữ bộ nhớ|com.android.providers.settings
+com.android.sharedstoragebackup|com.android.sharedstoragebackup
+com.mediatek.batterywarning|com.mediatek.batterywarning
+Meta Services|com.facebook.services
+Làm dịu mắt|com.oplus.eyeprotect
+Dịch vụ xử lý in|com.android.printspooler
+Chế độ ngủ cơ bản|com.android.dreams.basic
+Ghi âm cuộc gọi|com.oplus.callrecorder
+com.google.android.overlay.modules.ext.services|com.google.android.overlay.modules.ext.services
+HeySynergy|com.oplus.synergy
+OpenCapabilityService|com.coloros.ocs.opencapabilityservice
+SecureElementApplication|com.android.se
+Thiết bị đầu vào|com.android.inputdevices
+Digital Wellbeing|com.google.android.apps.wellbeing
+FIDO UAF1.0 ASM|com.fido.asm
+com.oplus.android.overlay.gmsconfig.common|com.oplus.android.overlay.gmsconfig.common
+Điện thoại|com.google.android.dialer
+ORoaming|com.redteamobile.roaming
+Dịch vụ in mặc định|com.android.bips
+com.mediatek|com.mediatek
+Files by Google|com.google.android.apps.nbu.files
+Shelper|com.daemon.shelper
+Đăng nhập trang xác thực|com.google.android.captiveportallogin
+com.google.android.overlay.gmsconfig.comms|com.google.android.overlay.gmsconfig.comms
+BTtestmode|com.oplus.bttestmode
+Hot Apps|com.opos.cs
+CustCoreApp|com.oplus.customize.coreapp
+Drive|com.google.android.apps.docs
+Maps|com.google.android.apps.maps
+Công cụ đa dạng|com.oplus.uiengine
+Main components|com.google.android.modulemetadata
+Chương trình trải nghiệm người dùng|com.oplus.statistics.rom
+Hệ thống Android|oplus
+com.android.cellbroadcastreceiver|com.android.cellbroadcastreceiver
+Android System WebView|com.google.android.webview
+android.frameworkres.overlay.Network|android.frameworkres.overlay.Network
+Thời tiết|com.coloros.weather2
+com.google.android.overlay.modules.documentsui|com.google.android.overlay.modules.documentsui
+Trình quản lý mạng|com.google.android.networkstack
+Danh bạ|com.google.android.contacts
+Quản lý cuộc gọi|com.android.server.telecom
+Đồng bộ hóa danh sách liên hệ của Google|com.google.android.syncadapters.contacts
+Móc khóa|com.android.keychain
+Chrome|com.android.chrome
+La bàn|com.coloros.compass2
+ACS|com.mediatek.rcs.provisioning
+Cài đặt không dây|com.oplus.wirelesssettings
+Trình cài đặt gói|com.google.android.packageinstaller
+Dịch vụ Google Play|com.google.android.gms
+Khung Dịch vụ của Google|com.google.android.gsf
+Carrier Services|com.google.android.ims
+Nhận dạng và tổng hợp giọng nói của Google|com.google.android.tts
+TikTok|com.ss.android.ugc.trill
+Các tài nguyên Wi-Fi của hệ thống|com.android.wifi.resources
+Call Log Backup/Restore|com.android.calllogbackup
+Google Partner Setup|com.google.android.partnersetup
+CameraExtensionsProxy|com.android.cameraextensions
+com.android.localtransport|com.android.localtransport
+com.google.android.overlay.gmsconfig.gsa|com.google.android.overlay.gmsconfig.gsa
+CarrierDefaultApp|com.android.carrierdefaultapp
+Cá nhân hóa|com.oplus.uxdesign
+Assistant|com.coloros.lockassistant
+Noto Serif / Source Sans Pro|com.android.theme.font.notoserifsource
+com.mediatek.FrameworkResOverlayExt|com.mediatek.FrameworkResOverlayExt
+ProxyHandler|com.android.proxyhandler
+Tài nguyên Trung tâm An toàn của Google|com.google.android.safetycenter.resources
+Vết cắt thác nước|com.android.internal.display.cutout.emulation.waterfall
+Dịch vụ ứng dụng|com.oplus.appplatform
+com.oplus.android.overlay.modules.documentsui|com.oplus.android.overlay.modules.documentsui
+Máy tính|com.coloros.calculator
+Tài nguyên kết nối hệ thống|com.google.android.connectivity.resources
+com.google.android.overlay.modules.permissioncontroller.forframework|com.google.android.overlay.modules.permissioncontroller.forframework
+Tác nhân p.hồi Market|com.google.android.feedback
+Print Service Recommendation Service|com.google.android.printservice.recommendation
+Photos|com.google.android.apps.photos
+Lịch|com.google.android.calendar
+Thiết lập hồ sơ công việc|com.android.managedprovisioning
+Laban Key|com.vng.inputmethod.labankey
+Arm GPU Game Driver|com.mediatek.mt6833.gamedriver
+RilCap|com.mediatek.capctrl.service
+aidlserverdemo|com.tencent.soter.soterserver
+Files|com.google.android.documentsui
+Mẹo sử dụng|com.coloros.operationtips
+Support components|com.google.mainline.telemetry
+Facebook|com.facebook.katana
+Đồng hồ|com.coloros.alarmclock
+com.google.android.permissioncontroller.overlay.oplus|com.google.android.permissioncontroller.overlay.oplus
+atlasService|com.oplus.atlas
+Trò chơi|com.oplus.games
+StdID|com.oplus.stdid
+com.android.providers.partnerbookmarks|com.android.providers.partnerbookmarks
+Dịch vụ hệ thống|com.oplus.exsystemservice
+Khẩu lệnh|com.mediatek.voicecommand
+SAUHelper|com.oplus.sauhelper
+TeeService|com.trustonic.teeservice
+Bộ chọn hình nền động|com.android.wallpaper.livepicker
+Hình nền|com.oplus.wallpapers
+Thẻ|com.android.apps.tag
+Lite|com.facebook.lite
+Messenger|com.facebook.orca
+Vùng an toàn riêng tư|com.oplus.encryption
+Trình quản lý điện thoại|com.coloros.phonemanager
+Bảo vệ thanh toán|com.coloros.securepay
+VCB Digibank|com.VCB
+Meta App Installer|com.facebook.system
+Dola|com.larus.wolf
+Colorful Engine|com.heytap.colorfulengine
+Sử dụng dữ liệu|com.oplus.trafficmonitor
+com.android.server.NetworkPermissionConfig|com.google.android.networkstack.permissionconfig
+Trình quản lý bộ nhớ|com.android.storagemanager
+Bookmark Provider|com.android.bookmarkprovider
+com.ses.entitlement.o2.EntitlementApp|com.ses.entitlement.o2
+Cài đặt|com.android.settings
+System Messages|com.heytap.mcs
+WifiBackupRestore|com.oplus.wifibackuprestore
+GPay|com.google.android.apps.nbu.paisa.user
+RCS UA|com.mediatek.ims.rcsua.service
+Trình Duyệt|com.heytap.browser
+com.google.android.networkstack.overlay|com.google.android.networkstack.overlay
+Pin|com.oplus.battery
+MDMConfig|com.mediatek.mdmconfig
+Android Auto|com.google.android.projection.gearhead
+Nhân bản ứng dụng|com.oplus.multiapp
+EngineerCamera|com.oplus.engineercamera
+OIDT Service|com.oplus.postmanservice
+LocationEM2|com.mediatek.lbs.em2.ui
+com.android.cts.ctsshim|com.android.cts.ctsshim
+Bóng đen chân dung|com.oplus.portrait
+OplusDiracService|com.oplus.multimedia.dirac
+Video (Hệ thống)|com.coloros.video
+com.google.android.overlay.modules.modulemetadata.forframework|com.google.android.overlay.modules.modulemetadata.forframework
+Kết nối thiết bị nhanh|com.heytap.accessory
+com.mediatek.presence.service.CoreApplication|com.mediatek.presence
+Tệp của tôi|com.coloros.filemanager
+Cử chỉ và chuyển động|com.oplus.gesture
+Trình quản lý quyền|com.oplus.securitypermission
+VpnDialogs|com.android.vpndialogs
+FIDO UAF1.0 Client|com.fido.uafclient
+Keep Ghi chú|com.google.android.keep
+Trình ghi âm|com.coloros.soundrecorder
+Dịch vụ điện thoại|com.android.phone
+Shell|com.android.shell
+Phát màn hình|com.oplus.cast
+Dịch vụ tăng cường ứng dụng|com.oplus.cosa
+Cập nhật cài đặt nhà cung cấp|com.oplus.cota
+OplusLFEHer|com.oplus.lfeh
+ONet|com.oplus.onet
+Athena|com.oplus.athena
+com.android.wallpaperbackup|com.android.wallpaperbackup
+Lưu số bị chặn|com.android.providers.blockednumber
+EmailPartnerProvider|com.android.email.partnerprovider
+Từ điển người dùng|com.android.providers.userdictionary
+Máy ảnh|com.oplus.camera
+Tìm kiếm toàn cầu|com.oppo.quicksearchbox
+OsuLogin|com.android.hotspot2.osulogin
+com.mediatek.voiceunlock|com.mediatek.voiceunlock
+Lịch sử vị trí trên Google|com.google.android.gms.location.history
+Gestural Navigation Bar|com.android.internal.systemui.navbar.gestural
+Vị trí được hợp nhất|com.android.location.fused
+Giao diện người dùng hệ thống|com.android.systemui
+YouTube Music|com.google.android.apps.youtube.music
+Bluetooth MIDI Service|com.android.bluetoothmidiservice
+Cửa hàng chủ đề|com.heytap.themestore
+Meta App Manager|com.facebook.appmanager
+OVMService|com.oplus.ovoicemanager.wakeup
+Bóng trợ lý|com.coloros.floatassistant
+com.android.carrierconfig.overlay|com.android.carrierconfig.overlay
+Trung tâm bảo mật|com.oplus.safecenter
+Không gian trẻ em|com.coloros.childrenspace
+Theo dõi hệ thống|com.android.traceur
+Cảnh báo khẩn cấp qua mạng không dây|com.google.android.cellbroadcastreceiver
+PC Connect|com.oplus.linker
+Phản hồi|com.oplus.logkit
+Tai nghe không dây|com.oplus.melody
+Ảnh|com.coloros.gallery3d
+android.auto_generated_rro_product__|android.auto_generated_rro_product__
+OplusNrModeControl|com.oplus.nrMode
+Bluetooth|com.android.bluetooth
+EngineerMode|com.oplus.engineermode
+com.android.wallpaperpicker|com.android.wallpaperpicker
+Bữa tiệc âm nhạc|com.coloros.musiclink
+Bộ nhớ Danh bạ|com.android.providers.contacts
+Lịch Việt|com.somestudio.lichvietnam
+Chụp ảnh màn hình|com.oplus.screenshot
+Gestural Navigation Bar|com.android.internal.systemui.navbar.gestural_narrow_back
+Ảnh và video|com.google.android.photopicker
+com.oplus.subsys.SubsystemApplication|com.oplus.subsys
+EngineerNetwork|com.oplus.engineernetwork
+com.mediatek.gbaservice|com.mediatek.gbaservice
+Giấy phép WAPI|com.wapi.wapicertmanager
+Gboard|com.google.android.inputmethod.latin
+Android Switch|com.google.android.apps.restore
+Google One|com.google.android.apps.subscriptions.red
+EngineerMode|com.sprd.engineermode
+Trò chơi|com.oplus.gamespace
+SilentReboot|com.oplus.silentreboot
+OtaOmaHandler|com.sprd.omacp
+App Market|com.heytap.market
+Trình ghi Âm thanh|com.android.soundrecorder
+Công cụ chọn hình đại diện|com.android.avatarpicker
+An toàn cá nhân|com.google.android.apps.safetyhub
+OsuLogin|com.google.android.hotspot2.osulogin
+Quyền riêng tư trong quảng cáo|com.google.android.adservices.api
+ValidationTools|com.sprd.validationtools
+CommercialMidGround|com.oplus.commercial
+default browser|com.android.overlay.default.browser
+Máy ảnh|com.android.camera2
+Uni Wi-Fi|com.unisoc.android.wifi
+Vị trí nhà mạng|com.spreadtrum.proxy.nfwlocation
+MMI|com.yha.factory
+Quickstep|com.android.launcher3
+Đồng hồ|com.google.android.deskclock
+Android System Intelligence|com.google.android.as
+CompOS|com.android.compos.payload
+Meet|com.google.android.apps.tachyon
+AudioEffectCenter|com.oplus.audio.effectcenter
+Hiệu chuẩn máy ảnh|com.sprd.cameracalibration
+EngineerSecret|com.yha.engineersecret
+ifaa_manager_service|org.ifaa.aidl.manager
+Private Compute Services|com.google.android.as.oss
+com.android.unisoc.telephony.server.RadioInteractorApp|com.android.unisoc.telephony.server
+Cross-Device Services|com.google.ambient.streaming
+MusicFX|com.android.musicfx
+Themes|com.android.customization.themes
+RemoteProvisioner|com.google.android.rkpdapp
+Máy tính|com.google.android.calculator
+UASetting|com.sprd.uasetting
+Game Center|com.nearme.gamecenter
+Dịch vụ dữ liệu cơ bản|com.nearme.statistics.rom
+com.spreadtrum.ims.ImsApp|com.spreadtrum.ims
+Thẻ|com.google.android.tag
+Google Sample Home Screen|com.google.android.gmsintegration
+Google Wallet|com.google.android.apps.walletnfcrel
+PowerSaveModeLauncher|com.sprd.powersavemodelauncher
+Google TV|com.google.android.videos
+default browser|com.android.overlay.default.browser.cota
+com.sprd.linkturbo.LinkTurboManagerApp|com.sprd.linkturbo
+Trình quản lý thông tin xác thực|com.android.credentialmanager
+Dịch vụ webcam|com.android.DeviceAsWebcam
+IntentResolver|com.android.intentresolver
+Transparent navigation bar|com.android.internal.systemui.navbar.transparent
+ContactsKeys Storage|com.android.providers.contactkeys
+YLog|com.sprd.logmanager
+Cập nhật phần mềm|com.oppo.ota
+Âm thanh|com.android.soundpicker
+Trình bảo vệ màn hình ảnh|com.android.dreams.phototable
+Tiếp cận bằng công tắc|com.google.android.accessibility.switchaccess
+Notes Role enabled|com.android.role.notes.enabled
+Main components|com.google.mainline.adservices
+EngineerNetwork|com.oppo.engineermode.network
+Health Connect|com.google.android.healthconnect.controller
+Vòng quay hình nền|com.taboola.scoop
+Chế độ kiểm soát của cha mẹ trên hệ thống|com.google.android.gms.supervision
+Lưu trữ loại ảnh|com.sprd.providers.photos
+Nhạc|com.realme.as.music
+SGPS|com.spreadtrum.sgps
+Fitbit|com.fitbit.FitbitMobile
+EngineerMode|com.oppo.engineermode
+tuiAuxi_server|com.unisoc.tui
+Device Health Services|com.google.android.apps.turbo
+unisoc system|com.unisoc
+System UWB Resources|com.google.android.uwb.resources
+Home|com.google.android.apps.chromecast.app
+Các tài nguyên Wi-Fi của hệ thống|com.google.android.wifi.resources
+Hình nền và phong cách|com.android.wallpaper
+Assistant|com.unisoc.phone
+Chế độ đi xe|com.realme.smartdrive
+Google Wi-Fi Provisioner|com.google.android.apps.carrier.carrierwifi
+com.android.ondevicepersonalization.services.OnDevicePersonalizationApplication|com.google.android.ondevicepersonalization.services
+Pin|com.oplus.batterywarning
+EngineerCamera|com.oppo.engineermode.camera
+Sao chép điện thoại|com.realme.backuprestore
+Trợ giúp & phản hồi|com.coloros.operationManual
+Dịch vụ cập nhật|com.nearme.romupdate
+RfToolkit|com.oppo.rftoolkit
+RuntimeTest|com.yha.runtime
+Tìm thiết bị của tôi|com.google.android.apps.adm
+DeviceLockController|com.android.devicelockcontroller
