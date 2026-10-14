@@ -78,3 +78,6 @@ KT Hidden Menu|com.samsung.hidden.KT
 HPSClient2.0 Service|com.skt.hps20client
 Gợi ý|com.samsung.android.app.tips
 App vault|com.mi.globalminusscreen
+realme Community|com.realmecomm.app
+realme Store|com.realmestore.app
+TOMORO COFFEE|com.tomoro.indonesia.android
