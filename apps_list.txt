@@ -4499,3 +4499,30 @@ remotecontroller|com.duokan.phone.remotecontroller
 gprsandroid|com.tpb.mb.gprsandroid
 bidv|com.vnpay.bidv
 safetycore|com.google.android.safetycore
+QColor|com.qualcomm.qti.qcolor
+XR Wifi Service|com.qualcomm.qti.xrwifi
+QtiWifiService|com.qualcomm.qti.server.qtiwifi
+SimContacts|com.qualcomm.qti.simcontacts
+Sarcontroller|com.huaqin.sarcontroller
+CIT|com.xiaomi.cameratools
+CACertApp|vendor.qti.hardware.cacert.server
+Qualcomm Voice Assist|com.quicinc.voice.activation
+Performance Mode|com.qualcomm.qti.performancemode
+RideMode Recording list|com.qualcomm.qti.ridemodeaudio
+Wfd Service|com.qualcomm.wfd.service
+Device Info|com.qti.qualcomm.deviceinfo
+QesdkSysApp|vendor.qti.qesdk.sysservice
+FactoryKit Test|com.huaqin.factory
+XRVD|com.qualcomm.qti.xrvd.service
+System Helper Service|com.qualcomm.qti.services.systemhelper
+Smart-Divert|com.qti.xdivert
+Cửa sổ nổi|com.miui.freeform
+Usable Power Mode|com.qualcomm.qti.powersavemode
+Joyose|com.xiaomi.joyose
+Assemble test|com.mi.AutoTest
+CneApp|com.qualcomm.qti.cne
+LocationServices|com.qualcomm.location
+XRCB|com.qualcomm.qti.xrcb
+ConfDialer|com.qualcomm.qti.confdialer
+PowerOffAlarm|com.qualcomm.qti.poweroffalarm
+QCC|com.qti.qcc
