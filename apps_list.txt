@@ -4405,3 +4405,97 @@ RfToolkit|com.oppo.rftoolkit
 RuntimeTest|com.yha.runtime
 Tìm thiết bị của tôi|com.google.android.apps.adm
 DeviceLockController|com.android.devicelockcontroller
+Bộ nhớ đ.thoại+tin nhắn|com.android.providers.telephony
+Bộ nhớ Lịch|com.android.providers.calendar
+TetheringConfigOverlayGsi|com.android.networkstack.tethering.overlay
+Trình quản lý thiết bị đồng hành|com.android.companiondevicemanager
+MmsService|com.android.mms.service
+Trình quản lý Tải xuống|com.android.providers.downloads
+TetheringConfigOverlay|com.google.android.networkstack.tethering.overlay
+NetworkStackOverlayGsi|com.android.networkstack.overlay
+Trình cài đặt Chứng chỉ|com.android.certinstaller
+Android Easter Egg|com.android.egg
+Đề xuất tùy chọn cài đặt|com.android.settings.intelligence
+Print Spooler|com.android.printspooler
+Cuộc gọi điện thoại|com.android.server.telecom
+Chuỗi chính|com.android.keychain
+Thông báo của nhà mạng|com.android.carrierdefaultapp
+soter_server|com.tencent.soter.soterserver
+Internet|com.heytap.browser
+NetworkStackOverlay|com.google.android.networkstack.overlay
+Công cụ chẩn đoán|com.oplus.postmanservice
+Dịch vụ điện thoại|com.android.phone
+Lưu số điện thoại bị chặn|com.android.providers.blockednumber
+Chế độ trẻ em|com.coloros.childrenspace
+phone|com.qti.phone
+lpa|com.qualcomm.qti.lpa
+atfwd|com.qualcomm.atfwd
+cne|com.qualcomm.qti.cne
+uimremoteserver|com.qualcomm.uimremoteserver
+sarcontroller|com.huaqin.sarcontroller
+colorservice|com.qti.service.colorservice
+confdialer|com.qualcomm.qti.confdialer
+devicestatisticsservice|com.qualcomm.qti.devicestatisticsservice
+datastatusnotification|com.qti.qualcomm.datastatusnotification
+dpmserviceapp|com.qti.dpmserviceapp
+uimGbaApp|com.qualcomm.qti.uimGbaApp
+ridemodeaudio|com.qualcomm.qti.ridemodeaudio
+joyose|com.xiaomi.joyose
+sysservice|vendor.qti.qesdk.sysservice
+AutoTest|com.mi.AutoTest
+common|com.android.cellbroadcastreceiver.overlay.common
+diaglogger|com.huaqin.diaglogger
+location|com.qualcomm.location
+common|com.android.carrierconfig.overlay.common
+remoteSimlockAuth|com.qualcomm.qti.remoteSimlockAuth
+common|com.android.server.telecom.overlay.common
+service|com.qualcomm.qti.xrvd.service
+xrcb|com.qualcomm.qti.xrcb
+common|com.google.android.wifi.resources.overlay.common
+xdivert|com.qti.xdivert
+dcf|com.qti.dcf
+timeservice|com.qualcomm.timeservice
+qcolor|com.qualcomm.qti.qcolor
+service|com.qualcomm.wfd.service
+dynamicddsservice|com.qualcomm.qti.dynamicddsservice
+freeform|com.miui.freeform
+telephonyservice|com.qualcomm.qti.telephonyservice
+xrwifi|com.qualcomm.qti.xrwifi
+simcontacts|com.qualcomm.qti.simcontacts
+ims|org.codeaurora.ims
+qcrilmsgtunnel|com.qualcomm.qcrilmsgtunnel
+common|android.overlay.common
+server|vendor.qti.hardware.cacert.server
+cameratools|com.xiaomi.cameratools
+performancemode|com.qualcomm.qti.performancemode
+uimremoteclient|com.qualcomm.uimremoteclient
+atfwd2|com.qualcomm.atfwd2
+qtiwifi|com.qualcomm.qti.server.qtiwifi
+powersavemode|com.qualcomm.qti.powersavemode
+common|com.android.systemui.overlay.common
+poweroffalarm|com.qualcomm.qti.poweroffalarm
+activation|com.quicinc.voice.activation
+iwlan|vendor.qti.iwlan
+systemhelper|com.qualcomm.qti.services.systemhelper
+common|com.android.settings.overlay.common
+common|com.android.wifi.resources.overlay.common
+btdsda|com.qualcomm.qtil.btdsda
+factory|com.huaqin.factory
+common|com.android.phone.overlay.common
+deviceinfo|com.qti.qualcomm.deviceinfo
+common|android.qvaoverlay.common
+target|android.overlay.target
+qcc|com.qti.qcc
+workloadclassifier|com.qualcomm.qti.workloadclassifier
+uim|com.qualcomm.qti.uim
+trustzoneaccess|com.qualcomm.qti.qms.service.trustzoneaccess
+imsdatachannel|vendor.qti.imsdatachannel
+mbmobile|com.mbmobile
+app|vn.com.techcombank.bb.app
+ipay|com.vietinbank.ipay
+Agribank3g|com.vnpay.Agribank3g
+contactkeys|com.google.android.contactkeys
+remotecontroller|com.duokan.phone.remotecontroller
+gprsandroid|com.tpb.mb.gprsandroid
+bidv|com.vnpay.bidv
+safetycore|com.google.android.safetycore
