@@ -4544,3 +4544,12 @@ J&T Express|com.msd.JTClient
 Collect Ball - Match Em All|com.katanlabs.matchballgame
 Word Connect Wonders Of View|com.katanlabs.wordconnectwondersofview
 Glance dành cho realme|com.glance.internet
+CAKE BANK|xyz.be.cake
+VPBank NEO|com.vnpay.vpbankonline
+TCB Business|vn.com.techcombank.bb.corp.app
+AiEngine|com.realme.aiengine
+AospMediaController|com.oplus.mediacontroller
+SystemUIPlugin|com.oplus.systemui.plugins
+UMS|com.oplus.pantanal.ums
+Terminal|com.android.virtualization.terminal
+Thẻ ra vào|com.oplus.accesscard
