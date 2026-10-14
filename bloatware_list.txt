@@ -81,3 +81,4 @@ App vault|com.mi.globalminusscreen
 realme Community|com.realmecomm.app
 realme Store|com.realmestore.app
 TOMORO COFFEE|com.tomoro.indonesia.android
+Meet|com.google.android.apps.tachyon
