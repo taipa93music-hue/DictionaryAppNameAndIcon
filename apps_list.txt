@@ -4526,3 +4526,21 @@ XRCB|com.qualcomm.qti.xrcb
 ConfDialer|com.qualcomm.qti.confdialer
 PowerOffAlarm|com.qualcomm.qti.poweroffalarm
 QCC|com.qti.qcc
+Agoda|com.agoda.mobile.consumer
+TOMORO COFFEE|com.tomoro.indonesia.android
+realme Store|com.realmestore.app
+Bubble Pop! - Shooter Puzzle|com.katanlabs.bubblepop
+Fineasy|com.fintech.life
+Tile Match|com.KatanLabs.tilematchpuzzlemaster
+Worm family - Eat em All|com.katanlabs.worm.ioeatemall
+realme Community|com.realmecomm.app
+Timo|io.lifestyle.plus
+MBS|vn.com.mbs.m24np
+Tokopedia|com.tokopedia.tkpd
+Fruit Shooting- Sharp Knife|com.fullmetalgamedev.fruitshooting
+MyVIB|com.vib.myvib2
+Joy Games|com.games.yikegames
+J&T Express|com.msd.JTClient
+Collect Ball - Match Em All|com.katanlabs.matchballgame
+Word Connect Wonders Of View|com.katanlabs.wordconnectwondersofview
+Glance dành cho realme|com.glance.internet
