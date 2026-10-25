@@ -89,17 +89,12 @@ speech|com.xiaomi.mibrain.speech
 huanji|com.miui.huanji
 health|com.mi.health
 lite|cn.wps.moffice_eng.xiaomi.lite
-emag|com.mfashiongallery.emag
-virtualsim|com.miui.virtualsim
 news|com.ss.android.article.news
 shop|com.xiaomi.shop
 aweme|com.ss.android.ugc.aweme
 trill|com.ss.android.ugc.trill
 miui|com.iflytek.inputmethod.miui
-newhome|com.miui.newhome
 youpin|com.xiaomi.youpin
 Qunar|com.Qunar
-cleanmaster|com.miui.cleanmaster
-reader|com.duokan.reader
 newmidrive|com.miui.newmidrive
 vipshop|com.achievo.vipshop
