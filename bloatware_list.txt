@@ -128,3 +128,40 @@ QMemo+|com.lge.qmemoplus
 SmartWorld|com.lge.lgworld
 ToruCa|com.nttdocomo.android.toruca
 +Message|com.nttdocomo.android.msg
+AKTアプリ|com.nttdocomo.android.kittingmanager
+APN switching control|com.nttdocomo.android.apnsw
+App crash report|com.nttdocomo.android.bugreport
+Area Mail|com.nttdocomo.android.areamail
+AUTO-GPS|com.nttdocomo.android.atf
+bootstart_DoCoMoInitializationSample|com.nttdocomo.android.BootCompleteInitialization
+BridgingLauncher|jp.co.nttdocomo.bridgelauncher
+com.nttdocomo.android.anmane2|com.nttdocomo.android.anmane2
+d ACCOUNT setting|com.nttdocomo.android.idmanager
+DcmAccountWipeService|com.nttdocomo.android.accountwipe
+DcmIpPushAggregator|com.nttdocomo.android.pf.dcmippushaggregator
+DcmWapPushHelper|com.nttdocomo.android.pf.dcmwappush
+docomo Application Manager|com.nttdocomo.android.applicationmanager
+docomo Authenticator|com.nttdocomo.android.accountauthenticator
+docomo cloud settings|com.nttdocomo.android.cloudset
+docomo Data Copy|com.nttdocomo.android.sdcardbackup
+DOCOMO Initialization|com.nttdocomo.android.initialization
+docomo location information|jp.co.nttdocomo.lcsapp
+docomo location information (sub)|jp.co.nttdocomo.lcsappsub
+docomo mail|jp.co.nttdocomo.carriermail
+docomo service|com.nttdocomo.android.docomoset
+dメニュー|com.nttdocomo.android.dmenu2
+Emergency mode|com.nttdocomo.android.epsmodecontrol
+Emergency mode|com.nttdocomo.android.epshome
+FeliCaRemoteLock|com.nttdocomo.android.felicaremotelock
+iコンシェル|com.nttdocomo.android.iconcier
+Moji-Henshu|com.nttdocomo.android.voiceeditor
+my daiz|com.nttdocomo.android.mascot
+Omakase Lock|com.nttdocomo.android.remotelock
+Osaifu-Keitai TSM Proxy|com.nttdocomo.osaifu.tsmproxy
+Osaifu-Keitai UIM Settings|com.nttdocomo.android.offhostcontrol
+Osusume hint|com.nttdocomo.android.devicehelp
+Remote Initialization Service|com.nttdocomo.android.wipe
+Schedule & Memo|com.nttdocomo.android.schedulememo
+ScreenLockService|com.nttdocomo.android.screenlockservice
+Software update|com.nttdocomo.android.osv
+Suguden|com.nttdocomo.android.phonemotion
