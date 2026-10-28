@@ -113,3 +113,17 @@ docomo LIVE UX backup|com.nextbit.app
 ローソン|jp.co.lawson.android
 地図アプリダウンローダ|jp.dmapnavi.navi02
 遠隔ｻﾎﾟｰﾄ|com.rsupport.rs.activity.ntt
+d book MyShelf DL|jp.co.nttdocomo.dbook
+d Healthcare|com.nttdocomo.android.dhealthcare
+docomo Application Manager Init.|com.nttdocomo.android.applicationmanagersub
+dphoto|com.nttdocomo.android.photocollection
+dポイントクラブ|com.nttdocomo.android.dpoint
+d払い|com.nttdocomo.keitai.payment
+Gｶﾞｲﾄﾞ番組表DL|com.ipg.gguide.dcm_app.android
+iDアプリ|jp.id_credit_sp.android
+Instruction Manual|jp.co.ise.l03k.instructionmanual
+Jspeak|com.nttdocomo.android.voicetranslation
+My docomo|com.nttdocomo.android.mydocomo
+QMemo+|com.lge.qmemoplus
+SmartWorld|com.lge.lgworld
+ToruCa|com.nttdocomo.android.toruca
