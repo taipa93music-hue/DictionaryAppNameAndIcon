@@ -98,3 +98,18 @@ youpin|com.xiaomi.youpin
 Qunar|com.Qunar
 newmidrive|com.miui.newmidrive
 vipshop|com.achievo.vipshop
+Amazon Kindle|com.amazon.kindle
+Anshin Security|com.nttdocomo.android.anshinsecurity
+Disaster kit|jp.co.nttdocomo.saigaiban
+dmarket|com.nttdocomo.android.store
+docomo LIVE UX|com.nttdocomo.android.dhome
+docomo LIVE UX backup|com.nextbit.app
+あんしんフィルター for docomo|jp.co.nttdocomo.anshinmode
+コンテンツ表示（iコンシェル）|com.nttdocomo.android.iconcier_contents
+スケジュール/メモ・トルカ同期|com.nttdocomo.android.databackup
+データ保管BOX|com.nttdocomo.android.cloudstorageservice
+マクドナルド|jp.co.mcdonalds.android
+マネレコ|com.nttdocomo.android.moneyrecord
+ローソン|jp.co.lawson.android
+地図アプリダウンローダ|jp.dmapnavi.navi02
+遠隔ｻﾎﾟｰﾄ|com.rsupport.rs.activity.ntt
