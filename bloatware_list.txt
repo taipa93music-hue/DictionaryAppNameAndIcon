@@ -155,11 +155,9 @@ FeliCaRemoteLock|com.nttdocomo.android.felicaremotelock
 iコンシェル|com.nttdocomo.android.iconcier
 Moji-Henshu|com.nttdocomo.android.voiceeditor
 my daiz|com.nttdocomo.android.mascot
-Omakase Lock|com.nttdocomo.android.remotelock
 Osaifu-Keitai TSM Proxy|com.nttdocomo.osaifu.tsmproxy
 Osaifu-Keitai UIM Settings|com.nttdocomo.android.offhostcontrol
 Osusume hint|com.nttdocomo.android.devicehelp
-Remote Initialization Service|com.nttdocomo.android.wipe
 Schedule & Memo|com.nttdocomo.android.schedulememo
 ScreenLockService|com.nttdocomo.android.screenlockservice
 Software update|com.nttdocomo.android.osv
