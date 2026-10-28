@@ -127,3 +127,4 @@ My docomo|com.nttdocomo.android.mydocomo
 QMemo+|com.lge.qmemoplus
 SmartWorld|com.lge.lgworld
 ToruCa|com.nttdocomo.android.toruca
++Message|com.nttdocomo.android.msg
