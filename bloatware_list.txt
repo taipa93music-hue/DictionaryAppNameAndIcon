@@ -137,7 +137,6 @@ bootstart_DoCoMoInitializationSample|com.nttdocomo.android.BootCompleteInitializ
 BridgingLauncher|jp.co.nttdocomo.bridgelauncher
 com.nttdocomo.android.anmane2|com.nttdocomo.android.anmane2
 d ACCOUNT setting|com.nttdocomo.android.idmanager
-DcmAccountWipeService|com.nttdocomo.android.accountwipe
 DcmIpPushAggregator|com.nttdocomo.android.pf.dcmippushaggregator
 DcmWapPushHelper|com.nttdocomo.android.pf.dcmwappush
 docomo Application Manager|com.nttdocomo.android.applicationmanager
