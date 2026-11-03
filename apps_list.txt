@@ -5359,3 +5359,12 @@ overlay|com.android.provision.resource.overlay
 vipshop|com.achievo.vipshop
 Qunar|com.Qunar
 editor|com.netvor.settings.database.editor
+telecom|com.mediatek.op09clib.telecom
+plugin|com.mediatek.op09clib.phone.plugin
+telecom|com.mediatek.op01.telecom
+plugin|com.mediatek.op01.phone.plugin
+mahjongtile|com.nebula.mahjongtile
+magazines|com.google.android.apps.magazines
+lvoverseas|com.lemon.lvoverseas
+bili|tv.danmaku.bili
+candycrushsaga|com.king.candycrushsaga
