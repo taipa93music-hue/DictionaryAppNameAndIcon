@@ -162,3 +162,4 @@ Schedule & Memo|com.nttdocomo.android.schedulememo
 ScreenLockService|com.nttdocomo.android.screenlockservice
 Software update|com.nttdocomo.android.osv
 Suguden|com.nttdocomo.android.phonemotion
+newhome|com.miui.newhome
