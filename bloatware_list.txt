@@ -174,3 +174,4 @@ au Market|com.kddi.market
 au Area Quality Information Reporting Function|com.kddi.android.checker_android
 au Selfcare|com.kddi.selfcare.client
 データお預かり|com.kddi.android.mamoru
+取扱説明書|com.somc.sog01.onlinemanual
