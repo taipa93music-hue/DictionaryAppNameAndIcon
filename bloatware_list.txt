@@ -178,3 +178,4 @@ au Selfcare|com.kddi.selfcare.client
 Osaifu-Keitai app|com.felicanetworks.mfm.main
 Reader by Sony|com.sony.drbd.reader.other.jp
 TV|jp.co.fsi.fs1seg
+遠隔操作サポート|jp.co.optim.oru
