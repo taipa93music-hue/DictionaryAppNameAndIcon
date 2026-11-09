@@ -162,4 +162,8 @@ Schedule & Memo|com.nttdocomo.android.schedulememo
 ScreenLockService|com.nttdocomo.android.screenlockservice
 Software update|com.nttdocomo.android.osv
 Suguden|com.nttdocomo.android.phonemotion
-bili|tv.danmaku.bili
+Xperia Lounge Japan|com.sonyericsson.androidapp.sehome
+スポットリスト|jp.sony.spot.sp
+Xperiaカバー|com.sonymobile.xperia.cover
+Xperia使いこなしガイド|com.sonymobile.xperia.guide
+auｽﾏｰﾄﾊﾟｽ|com.kddi.android.smartpass
