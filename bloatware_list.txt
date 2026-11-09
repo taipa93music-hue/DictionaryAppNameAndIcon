@@ -176,3 +176,4 @@ au Selfcare|com.kddi.selfcare.client
 データお預かり|com.kddi.android.mamoru
 取扱説明書|com.somc.sog01.onlinemanual
 Osaifu-Keitai app|com.felicanetworks.mfm.main
+Reader by Sony|com.sony.drbd.reader.other.jp
