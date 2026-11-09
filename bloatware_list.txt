@@ -167,3 +167,9 @@ Xperia Lounge Japan|com.sonyericsson.androidapp.sehome
 Xperiaカバー|com.sonymobile.xperia.cover
 Xperia使いこなしガイド|com.sonymobile.xperia.guide
 auｽﾏｰﾄﾊﾟｽ|com.kddi.android.smartpass
+au Disaster Measures|com.kddi.disasterapp
+au PAY|jp.auone.wallet
+My au|com.kddi.cs.app001
+au Market|com.kddi.market
+au Area Quality Information Reporting Function|com.kddi.android.checker_android
+au Selfcare|com.kddi.selfcare.client
